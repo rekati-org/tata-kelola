@@ -6,42 +6,64 @@ Aturan ini mengatur siapa yang bisa menjadi Kawan, cara bergabung dan dikeluarka
 
 ## 1. Kawan
 
-Kawan adalah sebutan untuk anggota REKATI: pekerja yang memenuhi syarat di bawah dan mau ikut serta. Syarat ini menentukan siapa yang masuk ruang bersama dan bisa menjadi pengurus. Siapa pun yang tidak menjadi Kawan tetap bisa terlibat di REKATI lewat jalur di [bagian 9](#9-keterlibatan-di-luar-kawan).
+Kawan adalah sebutan untuk anggota REKATI: pekerja yang memenuhi syarat di bawah dan mau ikut serta. REKATI memakai payung lebar: yang dijaga adalah ruang tempat pekerja bisa bicara jujur soal pekerjaannya, bukan daftar jabatan yang boleh masuk. Syarat ini menentukan siapa yang masuk ruang bersama dan bisa menjadi pengurus. Siapa pun yang tidak menjadi Kawan tetap bisa terlibat di REKATI lewat jalur di [bagian 9](#9-keterlibatan-di-luar-kawan).
 
 ### Istilah
 
 Istilah di bawah dipakai dengan arti yang sama persis di aturan ini, di formulir, dan di situs REKATI. Kalau ada rumusan lain yang berbeda, rumusan di sini yang berlaku.
 
-- **Pemegang keputusan kepegawaian**: orang yang secara resmi, karena jabatannya atau karena pelimpahan tertulis, memegang keputusan akhir atas perekrutan, pemberhentian, atau gaji, tunjangan, dan pesangon pekerja lain.
+- **Keputusan kepegawaian**: keputusan akhir atas perekrutan, pemberhentian, atau gaji, tunjangan, dan pesangon pekerja lain.
 - **Keputusan akhir**: keputusan yang berlaku tanpa perlu disetujui orang lain. Memberi masukan, mewawancarai, menilai kinerja, atau mengusulkan tidak termasuk.
 - **Pekerja lain**: orang yang bekerja untuk pemberi kerja yang sama atau untuk usaha milik orang itu, dengan status apa pun (tetap, kontrak, magang berbayar).
+- **Pimpinan perusahaan**: orang yang menetapkan kebijakan kepegawaian perusahaan, bukan hanya menjalankannya: pemilik dan pendiri yang mempekerjakan orang lain, direksi, komisaris, jajaran C-level, dan orang lain yang memutuskan anggaran gaji, pemberhentian massal, atau struktur organisasi.
+- **Manajer**: pekerja yang memegang keputusan kepegawaian atas timnya sendiri, tetapi masih bekerja di bawah atasan yang bisa memberhentikannya atau menentukan gajinya, dan tidak ikut menetapkan kebijakan kepegawaian perusahaan.
 
-Yang menentukan adalah wewenangnya, bukan nama jabatan atau bidang kerjanya.
+Yang menentukan adalah posisi dan wewenangnya, bukan nama jabatan atau bidang kerjanya.
 
 ### Yang bisa menjadi Kawan
 
-Siapa pun yang bukan pemegang keputusan kepegawaian dan termasuk salah satu di bawah:
+Siapa pun yang bukan pimpinan perusahaan dan termasuk salah satu di bawah:
 
 - **Tech worker**: orang yang bekerja di industri teknologi, apa pun perannya (engineering, desain, product dan project management, tech sales, support, HR, dan lainnya), atau orang yang mengerjakan pekerjaan teknologi di industri lain.
 - **Tech-enabled worker**: pekerja yang pekerjaannya dijalankan lewat sistem digital, misalnya agen support, moderator konten, dan pelabel data.
 - **Pekerja mandiri**: freelancer, kontraktor perorangan, atau pemilik usaha perorangan di bidang teknologi yang tidak mempekerjakan orang lain.
 - **Pengelola usaha setara**: pendiri usaha kecil, misalnya software house atau studio, yang semua pendirinya ikut bekerja, tidak ada yang bisa memberhentikan pendiri lain, dan usaha itu tidak mempekerjakan pekerja lain.
 
+Manajer termasuk di atas, dengan kewajiban di bagian berikut.
+
 ### Kawan dengan kewajiban terbuka
 
-Kawan yang ikut mewawancarai, menilai kinerja, atau memberi masukan soal pekerjaan orang lain, tanpa memegang keputusan akhir, misalnya tech lead atau engineering manager, tetap Kawan dengan hak yang sama. Mereka wajib:
+Dua kelompok Kawan punya hak yang sama dengan Kawan lain, ditambah kewajiban:
 
-- menyatakan posisinya ketika pembahasan menyangkut tim, calon pekerja, atau perusahaannya sendiri; dan
-- tidak memegang fungsi Verifikasi, atau Lingkar tempat kerja untuk perusahaannya sendiri (lihat [bagian 4](#4-pengurus)).
+- **Kawan yang ikut menilai orang lain**: Kawan yang mewawancarai, menilai kinerja, atau memberi masukan soal pekerjaan orang lain, tanpa memegang keputusan akhir, misalnya tech lead atau engineering manager.
+- **Kawan manajer**: Kawan yang memenuhi definisi manajer.
+
+Kewajiban keduanya:
+
+- menyatakan posisinya ketika pembahasan menyangkut tim, calon pekerja, atau perusahaannya sendiri;
+- tidak memegang fungsi Verifikasi, atau Lingkar tempat kerja untuk perusahaannya sendiri (lihat [bagian 4](#4-pengurus)); dan
+- tidak memakai apa pun yang didengar di REKATI untuk merugikan pekerja, termasuk timnya sendiri (lihat [bagian 7](#7-pelanggaran-dan-sanksi)).
+
+Kawan manajer didorong memakai posisinya untuk membantu timnya mendapatkan haknya. Itu salah satu alasan mereka ada di REKATI.
+
+### Membedakan manajer dan pimpinan perusahaan
+
+Kalau posisinya tidak jelas, pengurus verifikasi menanyakan hal-hal berikut. Tidak ada satu jawaban yang menentukan sendirian:
+
+1. Apakah ada atasan yang bisa memberhentikanmu atau menentukan gajimu? Kalau ya, itu tanda pekerja.
+2. Apakah kamu ikut menetapkan kebijakan kepegawaian perusahaan, misalnya anggaran gaji, pemberhentian massal, atau struktur organisasi? Kalau ya, itu tanda pimpinan perusahaan.
+3. Apakah sebagian besar penghasilanmu dari kepemilikan usaha, saham, atau bagi hasil, bukan dari gaji? Kalau ya, kepentinganmu lebih dekat ke pemberi kerja.
+4. Dalam pekerjaan sehari-hari, apakah posisimu lebih dekat ke orang-orang yang kamu pimpin, atau ke pimpinan perusahaan?
 
 ### Yang tidak bergabung sebagai Kawan
 
-Pemegang keputusan kepegawaian tidak bergabung sebagai Kawan, apa pun jabatannya, termasuk pemilik usaha, pendiri, dan CTO yang memegang keputusan itu. Ini soal benturan kepentingan di ruang tempat pekerja membicarakan pekerjaan dan gajinya, bukan penilaian atas orangnya. Mereka bisa terlibat sebagai Sekutu (lihat [bagian 9](#9-keterlibatan-di-luar-kawan)).
+Pimpinan perusahaan tidak bergabung sebagai Kawan, apa pun jabatannya. Ini soal benturan kepentingan di ruang tempat pekerja membicarakan pekerjaan dan gajinya, bukan penilaian atas orangnya. Mereka bisa terlibat sebagai Sekutu (lihat [bagian 9](#9-keterlibatan-di-luar-kawan)).
 
 ### Kalau posisi berubah
 
-- Kawan yang menjadi pemegang keputusan kepegawaian memberi tahu pengurus verifikasi dalam 30 hari, lalu beralih menjadi Sekutu. Ini bukan sanksi.
-- Sekutu yang tidak lagi menjadi pemegang keputusan kepegawaian bisa mendaftar lagi sebagai Kawan.
+- Kawan yang menjadi pimpinan perusahaan memberi tahu pengurus verifikasi dalam 30 hari, lalu beralih menjadi Sekutu. Ini bukan sanksi.
+- Kawan yang menjadi manajer memberi tahu pengurus verifikasi dalam 30 hari dan tetap Kawan, dengan kewajiban di atas.
+- Sekutu yang tidak lagi menjadi pimpinan perusahaan bisa mendaftar lagi sebagai Kawan.
 - Kalau posisi calon atau Kawan tidak jelas, pengurus verifikasi menanyakannya dan memutuskan. Keputusan itu bisa diajukan keberatan.
 
 ## 2. Bergabung
@@ -138,7 +160,7 @@ Pelanggaran:
 - Bertindak sewenang-wenang sehingga merugikan REKATI.
 - Memakai nama REKATI untuk keuntungan pribadi di luar yang diatur dalam Aturan Komunitas ini.
 - Melakukan pelanggaran ringan tiga kali berturut-turut.
-- Sengaja tidak memberi tahu, atau menyembunyikan, bahwa dirinya menjadi pemegang keputusan kepegawaian.
+- Sengaja tidak memberi tahu, atau menyembunyikan, bahwa dirinya menjadi manajer atau pimpinan perusahaan.
 
 ### Berat
 
@@ -157,6 +179,7 @@ Pelanggaran:
 - Terbukti melakukan tindak pidana.
 - Terbukti memecah belah REKATI.
 - Terbukti meminta atau menerima hadiah yang berkaitan dengan fungsinya.
+- Memakai informasi dari REKATI untuk merugikan pekerja, misalnya untuk membalas, menghambat, atau memberhentikan Kawan atau anggota timnya.
 - Memakai nama REKATI untuk mendukung partai politik atau calon presiden, kepala daerah, maupun anggota legislatif.
 - Melakukan pelanggaran lain yang sama beratnya terhadap Aturan Komunitas atau Kode Etik.
 
@@ -175,7 +198,7 @@ REKATI terbuka bagi siapa pun yang mau memperbaiki dunia kerja teknologi. Keterl
 
 | Jalur | Siapa | Boleh | Batasan |
 | --- | --- | --- | --- |
-| Sekutu | Pemegang keputusan kepegawaian yang mendukung praktik kerja yang adil, misalnya pemilik usaha, pendiri, CTO, manajer, dan HR | Ikut kegiatan terbuka, menjadi narasumber, menyumbang tulisan untuk Panduan, berdonasi sebagai pribadi | Tidak masuk ruang bersama, tidak bisa menjadi pengurus, tidak melihat identitas atau isian formulir Kawan, tidak memakai REKATI untuk merekrut atau mempromosikan perusahaan |
+| Sekutu | Pimpinan perusahaan yang mendukung praktik kerja yang adil, misalnya pemilik usaha, pendiri, direksi, dan C-level | Ikut kegiatan terbuka, menjadi narasumber, menyumbang tulisan untuk Panduan, berdonasi sebagai pribadi | Tidak masuk ruang bersama, tidak bisa menjadi pengurus, tidak melihat identitas atau isian formulir Kawan, tidak memakai REKATI untuk merekrut atau mempromosikan perusahaan |
 | Mitra | TWC, lembaga bantuan hukum (LBH), organisasi pekerja, dan komunitas lain | Kerja sama kegiatan dan rujukan | Lewat fungsi Hubungan nasional atau Hubungan internasional |
 | Publik | Siapa saja | Membaca situs dan media sosial, ikut kegiatan terbuka | Tidak ada akses ke data Kawan |
 
@@ -193,3 +216,7 @@ Perusahaan dan pemberi kerja sebagai lembaga, serta partai politik, tidak diliba
 - Apakah memakai jasa freelancer per proyek termasuk memegang keputusan atas gaji pekerja lain.
 - Apakah donasi pribadi dari Sekutu perlu batas atau dicatat terbuka, supaya REKATI tetap independen.
 - Kegiatan terbuka mana yang boleh diikuti Sekutu, dan bagaimana menjaga Kawan tetap nyaman bicara di kegiatan itu.
+- Apakah manajer menjadi Kawan dengan kewajiban terbuka (usulan ini), atau Sekutu.
+- Kapan penghasilan dari saham atau bagi hasil dianggap "sebagian besar", misalnya lebih dari separuh penghasilan setahun.
+- Apakah Kawan manajer bisa memegang fungsi pengurus lain, dan apakah ada kanal di ruang bersama khusus untuk Kawan tanpa manajer.
+- Bagaimana pertanyaan di formulir dirumuskan supaya manajer tidak merasa tertolak, dan pimpinan perusahaan diarahkan ke jalur Sekutu.
