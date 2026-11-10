@@ -1,0 +1,18 @@
+# GitHub Pages: rekati-org.github.io/tata-kelola. Renders the Markdown in this repo as plain web pages for
+# readers who don't use GitHub. Edit the .md files as usual; the site rebuilds after every merge to main.
+title: Tata Kelola REKATI
+description: Aturan Komunitas dan notulen rapat REKATI
+lang: id
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+relative_links:
+  enabled: true
+  collections: false
+exclude:
+  - README.md
