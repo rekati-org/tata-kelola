@@ -4,6 +4,8 @@ Aturan dan catatan rapat REKATI (Ruang Eksplorasi Kawan Teknologi Informasi), ko
 
 Repo ini publik supaya siapa pun bisa membaca aturan yang berlaku. Isinya hanya bisa diubah lewat pull request (PR) oleh Kawan yang tergabung di organisasi GitHub `rekati-org`.
 
+Untuk dibaca tanpa GitHub: **[rekati-org.github.io/tata-kelola](https://rekati-org.github.io/tata-kelola/)**. Halaman itu dibuat otomatis dari berkas di repo ini (GitHub Pages, `_config.yml`) dan diperbarui setiap kali PR di-merge. `index.md` adalah halaman depannya dan `notulen/index.md` daftar notulennya; notulen baru masuk ke daftar dengan sendirinya.
+
 | Berkas | Isi |
 | --- | --- |
 | [`ATURAN.md`](ATURAN.md) | Aturan Komunitas: siapa Kawan, cara bergabung dan dikeluarkan, pengurus, ruang bersama, kegiatan, sanksi, iuran |
