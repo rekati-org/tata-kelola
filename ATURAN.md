@@ -6,23 +6,43 @@ Aturan ini mengatur siapa yang bisa menjadi Kawan, cara bergabung dan dikeluarka
 
 ## 1. Kawan
 
-Kawan adalah sebutan untuk anggota REKATI: tech worker yang memenuhi syarat di bawah dan mau ikut serta.
+Kawan adalah sebutan untuk anggota REKATI: pekerja yang memenuhi syarat di bawah dan mau ikut serta. Syarat ini menentukan siapa yang masuk ruang bersama dan bisa menjadi pengurus. Siapa pun yang tidak menjadi Kawan tetap bisa terlibat di REKATI lewat jalur di [bagian 9](#9-keterlibatan-di-luar-kawan).
+
+### Istilah
+
+Istilah di bawah dipakai dengan arti yang sama persis di aturan ini, di formulir, dan di situs REKATI. Kalau ada rumusan lain yang berbeda, rumusan di sini yang berlaku.
+
+- **Pemegang keputusan kepegawaian**: orang yang secara resmi, karena jabatannya atau karena pelimpahan tertulis, memegang keputusan akhir atas perekrutan, pemberhentian, atau gaji, tunjangan, dan pesangon pekerja lain.
+- **Keputusan akhir**: keputusan yang berlaku tanpa perlu disetujui orang lain. Memberi masukan, mewawancarai, menilai kinerja, atau mengusulkan tidak termasuk.
+- **Pekerja lain**: orang yang bekerja untuk pemberi kerja yang sama atau untuk usaha milik orang itu, dengan status apa pun (tetap, kontrak, magang berbayar).
+
+Yang menentukan adalah wewenangnya, bukan nama jabatan atau bidang kerjanya.
 
 ### Yang bisa menjadi Kawan
 
-- **Tech worker**: orang yang bekerja di industri teknologi, apa pun perannya (engineering, desain, product dan project management, tech sales, support, dan lainnya), atau orang yang mengerjakan pekerjaan teknologi di industri lain.
+Siapa pun yang bukan pemegang keputusan kepegawaian dan termasuk salah satu di bawah:
+
+- **Tech worker**: orang yang bekerja di industri teknologi, apa pun perannya (engineering, desain, product dan project management, tech sales, support, HR, dan lainnya), atau orang yang mengerjakan pekerjaan teknologi di industri lain.
 - **Tech-enabled worker**: pekerja yang pekerjaannya dijalankan lewat sistem digital, misalnya agen support, moderator konten, dan pelabel data.
+- **Pekerja mandiri**: freelancer, kontraktor perorangan, atau pemilik usaha perorangan di bidang teknologi yang tidak mempekerjakan orang lain.
+- **Pengelola usaha setara**: pendiri usaha kecil, misalnya software house atau studio, yang semua pendirinya ikut bekerja, tidak ada yang bisa memberhentikan pendiri lain, dan usaha itu tidak mempekerjakan pekerja lain.
 
-### Yang tidak bisa menjadi Kawan
+### Kawan dengan kewajiban terbuka
 
-Orang yang punya wewenang resmi untuk:
+Kawan yang ikut mewawancarai, menilai kinerja, atau memberi masukan soal pekerjaan orang lain, tanpa memegang keputusan akhir, misalnya tech lead atau engineering manager, tetap Kawan dengan hak yang sama. Mereka wajib:
 
-- merekrut atau memberhentikan pekerja, atau
-- menentukan gaji, tunjangan, atau pesangon pekerja.
+- menyatakan posisinya ketika pembahasan menyangkut tim, calon pekerja, atau perusahaannya sendiri; dan
+- tidak memegang fungsi Verifikasi, atau Lingkar tempat kerja untuk perusahaannya sendiri (lihat [bagian 4](#4-pengurus)).
 
-Ini termasuk staf HR dan rekruter.
+### Yang tidak bergabung sebagai Kawan
 
-Pengecualian: engineering manager atau tech lead yang hanya menjadi pewawancara saat rekrutmen, tanpa wewenang memutuskan siapa yang diterima, tetap bisa menjadi Kawan.
+Pemegang keputusan kepegawaian tidak bergabung sebagai Kawan, apa pun jabatannya, termasuk pemilik usaha, pendiri, dan CTO yang memegang keputusan itu. Ini soal benturan kepentingan di ruang tempat pekerja membicarakan pekerjaan dan gajinya, bukan penilaian atas orangnya. Mereka bisa terlibat sebagai Sekutu (lihat [bagian 9](#9-keterlibatan-di-luar-kawan)).
+
+### Kalau posisi berubah
+
+- Kawan yang menjadi pemegang keputusan kepegawaian memberi tahu pengurus verifikasi dalam 30 hari, lalu beralih menjadi Sekutu. Ini bukan sanksi.
+- Sekutu yang tidak lagi menjadi pemegang keputusan kepegawaian bisa mendaftar lagi sebagai Kawan.
+- Kalau posisi calon atau Kawan tidak jelas, pengurus verifikasi menanyakannya dan memutuskan. Keputusan itu bisa diajukan keberatan.
 
 ## 2. Bergabung
 
@@ -118,6 +138,7 @@ Pelanggaran:
 - Bertindak sewenang-wenang sehingga merugikan REKATI.
 - Memakai nama REKATI untuk keuntungan pribadi di luar yang diatur dalam Aturan Komunitas ini.
 - Melakukan pelanggaran ringan tiga kali berturut-turut.
+- Sengaja tidak memberi tahu, atau menyembunyikan, bahwa dirinya menjadi pemegang keputusan kepegawaian.
 
 ### Berat
 
@@ -148,6 +169,18 @@ Pelanggaran:
 - **Penyimpanan**: untuk sementara, kas disimpan di kantong rekening pribadi salah satu pendiri.
 - **Donasi publik**: akan dibuka lewat Saweria.
 
+## 9. Keterlibatan di luar Kawan
+
+REKATI terbuka bagi siapa pun yang mau memperbaiki dunia kerja teknologi. Keterlibatannya bertingkat:
+
+| Jalur | Siapa | Boleh | Batasan |
+| --- | --- | --- | --- |
+| Sekutu | Pemegang keputusan kepegawaian yang mendukung praktik kerja yang adil, misalnya pemilik usaha, pendiri, CTO, manajer, dan HR | Ikut kegiatan terbuka, menjadi narasumber, menyumbang tulisan untuk Panduan, berdonasi sebagai pribadi | Tidak masuk ruang bersama, tidak bisa menjadi pengurus, tidak melihat identitas atau isian formulir Kawan, tidak memakai REKATI untuk merekrut atau mempromosikan perusahaan |
+| Mitra | TWC, lembaga bantuan hukum (LBH), organisasi pekerja, dan komunitas lain | Kerja sama kegiatan dan rujukan | Lewat fungsi Hubungan nasional atau Hubungan internasional |
+| Publik | Siapa saja | Membaca situs dan media sosial, ikut kegiatan terbuka | Tidak ada akses ke data Kawan |
+
+Perusahaan dan pemberi kerja sebagai lembaga, serta partai politik, tidak dilibatkan: tidak ada sponsor, dana, atau dukungan atas nama mereka.
+
 ## Belum diputuskan
 
 - Iuran dibayar per bulan atau dengan jangka lain.
@@ -156,3 +189,7 @@ Pelanggaran:
 - Bukti apa yang cukup untuk menyatakan identitas calon Kawan palsu.
 - Siapa yang memutuskan sanksi, dan bagaimana Kawan yang dituduh bisa menjelaskan diri atau mengajukan keberatan.
 - Berapa lama satu periode kepengurusan.
+- Apakah pekerja mandiri dan pengelola usaha setara membayar iuran, dan berapa.
+- Apakah memakai jasa freelancer per proyek termasuk memegang keputusan atas gaji pekerja lain.
+- Apakah donasi pribadi dari Sekutu perlu batas atau dicatat terbuka, supaya REKATI tetap independen.
+- Kegiatan terbuka mana yang boleh diikuti Sekutu, dan bagaimana menjaga Kawan tetap nyaman bicara di kegiatan itu.
