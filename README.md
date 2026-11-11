@@ -2,7 +2,7 @@
 
 Aturan dan catatan rapat REKATI (Ruang Eksplorasi Kawan Teknologi Informasi), komunitas tech worker di Jakarta Raya dan chapter Tech Workers Coalition (TWC).
 
-Repo ini private: hanya Kawan di organisasi GitHub `rekati-org` yang bisa membaca diskusi, PR, dan notulen. Aturan yang berlaku diterbitkan untuk publik di **[rekati.org/aturan](https://rekati.org/aturan/)**. Setiap kali `ATURAN.md` berubah di `main`, workflow [`terbitkan`](.github/workflows/terbitkan.yml) menyalinnya ke repo situs (`site/src/content/aturan/ATURAN.md` di `rekati-org/rekati`), dan situs ikut diperbarui. Jangan mengubah salinan di repo situs; ubah di sini.
+Repo ini private: hanya Kawan di organisasi GitHub `rekati-org` yang bisa membaca diskusi, PR, dan notulen. Aturan yang berlaku diterbitkan untuk publik di **[rekati.org/aturan](https://rekati.org/aturan/)**. Setiap kali `ATURAN.md` berubah di `main`, workflow [`terbitkan`](.github/workflows/terbitkan.yml) menyalinnya ke repo situs (`site/src/rules/ATURAN.md` di `rekati-org/rekati`), dan situs ikut diperbarui. Jangan mengubah salinan di repo situs; ubah di sini.
 
 | Berkas | Isi |
 | --- | --- |

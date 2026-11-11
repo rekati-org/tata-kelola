@@ -1,5 +1,5 @@
 # Publishes the rules in force to rekati.org/aturan. On every change to ATURAN.md on main, copies it into the site
-# repo (rekati-org/rekati, site/src/content/aturan/ATURAN.md) and pushes to its main branch, which deploys the site.
+# repo (rekati-org/rekati, site/src/rules/ATURAN.md) and pushes to its main branch, which deploys the site.
 # The push uses a deploy key with write access to rekati-org/rekati only: the private half is the
 # REKATI_SITE_DEPLOY_KEY secret here, the public half is a deploy key on the site repo.
 name: terbitkan
@@ -14,6 +14,9 @@ concurrency: terbitkan
 
 permissions:
   contents: read
+
+env:
+  DEST: site/src/rules/ATURAN.md
 
 jobs:
   terbitkan:
@@ -30,14 +33,13 @@ jobs:
       - name: Salin ATURAN.md ke repo situs
         working-directory: rekati
         run: |
-          mkdir -p site/src/content/aturan
-          cp ../tata-kelola/ATURAN.md site/src/content/aturan/ATURAN.md
+          cp ../tata-kelola/ATURAN.md "$DEST"
           if git diff --quiet; then
             echo "Aturan di situs sudah sama."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/src/content/aturan/ATURAN.md
+          git add "$DEST"
           git commit -m "Aturan Komunitas: terbitkan dari tata-kelola@${GITHUB_SHA::7}"
           git push origin HEAD:main
