@@ -19,7 +19,7 @@ Siapa pun yang mau memperbaiki dunia kerja teknologi punya tempat di REKATI. Tab
 | Bekerja tanpa memimpin atau menilai orang lain, junior maupun senior, tetap, kontrak, atau magang; juga pelajar dan pencari kerja | Kawan |
 | Memimpin atau menilai orang lain, misalnya tech lead, engineering manager, manajer, dan pewawancara | Kawan, dengan tanggung jawab tambahan |
 | Pekerja mandiri dan pengelola usaha setara | Kawan |
-| Pimpinan perusahaan, serta staf HR dan perekrut | Sekutu |
+| Pimpinan perusahaan, staf HR, atau perekrut yang mendukung kepentingan pekerja | Sekutu |
 | TWC, lembaga bantuan hukum (LBH), organisasi pekerja, dan komunitas lain | Mitra |
 | Siapa saja | Publik |
 
@@ -71,13 +71,21 @@ Kalau posisinya tidak jelas, pengurus verifikasi menanyakan hal-hal berikut. Tid
 3. Apakah sebagian besar penghasilanmu dari kepemilikan usaha, saham, atau bagi hasil, bukan dari gaji? Kalau ya, kepentinganmu lebih dekat ke pemberi kerja.
 4. Dalam pekerjaan sehari-hari, apakah posisimu lebih dekat ke orang-orang yang kamu pimpin, atau ke pimpinan perusahaan?
 
-### Pimpinan perusahaan, staf HR, dan perekrut: jalur Sekutu
+### Pimpinan perusahaan, staf HR, dan perekrut
 
-Pimpinan perusahaan terlibat sebagai Sekutu (lihat [bagian 9](#9-keterlibatan-di-luar-kawan)), apa pun jabatannya. Begitu juga staf HR dan perekrut, apa pun senioritasnya. Di ruang bersama, Kawan membicarakan gaji, kontrak, dan pemberhentian. Kebijakan atas hal-hal itu ditetapkan pimpinan perusahaan dan dijalankan staf HR dan perekrut atas nama pemberi kerja. Memisahkan peran-peran ini menjaga Kawan tetap bisa bicara jujur. Ini soal benturan kepentingan, bukan penilaian atas orangnya; jalur Sekutu ada untuk mereka yang peduli pada praktik kerja yang adil.
+Pimpinan perusahaan, staf HR, dan perekrut tidak bergabung sebagai Kawan, apa pun jabatan dan senioritasnya. Di ruang bersama, Kawan membicarakan gaji, kontrak, dan pemberhentian. Kebijakan atas hal-hal itu ditetapkan pimpinan perusahaan dan dijalankan staf HR dan perekrut atas nama pemberi kerja. Memisahkan peran-peran ini menjaga Kawan tetap bisa bicara jujur. Ini soal benturan kepentingan, bukan penilaian atas orangnya.
+
+Mereka bisa menjadi Sekutu (lihat [bagian 9](#9-keterlibatan-di-luar-kawan)) **hanya kalau mendukung kepentingan pekerja**. Jabatan tidak membuat seseorang otomatis menjadi Sekutu. Mendukung berarti, misalnya:
+
+- tidak menghalangi atau membalas pekerja yang membicarakan gaji, kontrak, atau kondisi kerjanya, atau yang bergabung dengan REKATI;
+- menjalankan hak pekerja sesuai aturan ketenagakerjaan, misalnya soal kontrak, lembur, cuti, BPJS, dan pesangon; dan
+- memakai posisinya untuk memperbaiki praktik kerja, bukan untuk menekan pekerja.
+
+Pengurus memutuskan apakah seseorang diterima sebagai Sekutu, dan bisa mencabut status itu kalau ia bertindak merugikan pekerja. Yang tidak memenuhi syarat Sekutu tetap bisa membaca situs dan ikut kegiatan yang terbuka untuk publik.
 
 ### Kalau posisi berubah
 
-- Kawan yang menjadi pimpinan perusahaan, staf HR, atau perekrut memberi tahu pengurus verifikasi dalam 30 hari, lalu beralih menjadi Sekutu. Ini bukan sanksi.
+- Kawan yang menjadi pimpinan perusahaan, staf HR, atau perekrut memberi tahu pengurus verifikasi dalam 30 hari dan keluar dari ruang bersama. Ini bukan sanksi. Ia bisa menjadi Sekutu kalau memenuhi syaratnya.
 - Kawan yang menjadi manajer memberi tahu pengurus verifikasi dalam 30 hari dan tetap Kawan, dengan tanggung jawab tambahan di atas.
 - Sekutu yang tidak lagi menjadi pimpinan perusahaan, staf HR, atau perekrut bisa mendaftar lagi sebagai Kawan.
 - Kalau posisi calon atau Kawan tidak jelas, pengurus verifikasi menanyakannya dan memutuskan. Keputusan itu bisa diajukan keberatan.
@@ -214,7 +222,7 @@ REKATI terbuka bagi siapa pun yang mau memperbaiki dunia kerja teknologi. Keterl
 
 | Jalur | Siapa | Boleh | Batasan |
 | --- | --- | --- | --- |
-| Sekutu | Pimpinan perusahaan yang mendukung praktik kerja yang adil, misalnya pemilik usaha, pendiri, direksi, dan C-level, serta staf HR dan perekrut | Ikut kegiatan terbuka, menjadi narasumber, menyumbang tulisan untuk Panduan, berdonasi sebagai pribadi | Tidak masuk ruang bersama, tidak bisa menjadi pengurus, tidak melihat identitas atau isian formulir Kawan, tidak memakai REKATI untuk merekrut atau mempromosikan perusahaan |
+| Sekutu | Pimpinan perusahaan (misalnya pemilik usaha, pendiri, direksi, dan C-level), staf HR, atau perekrut yang mendukung kepentingan pekerja (lihat [bagian 1](#pimpinan-perusahaan-staf-hr-dan-perekrut)) dan diterima pengurus | Ikut kegiatan terbuka, menjadi narasumber, menyumbang tulisan untuk Panduan, berdonasi sebagai pribadi | Tidak masuk ruang bersama, tidak bisa menjadi pengurus, tidak melihat identitas atau isian formulir Kawan, tidak memakai REKATI untuk merekrut atau mempromosikan perusahaan. Status Sekutu dicabut kalau ia bertindak merugikan pekerja. |
 | Mitra | TWC, lembaga bantuan hukum (LBH), organisasi pekerja, dan komunitas lain | Kerja sama kegiatan dan rujukan | Lewat fungsi Hubungan nasional atau Hubungan internasional |
 | Publik | Siapa saja | Membaca situs dan media sosial, ikut kegiatan terbuka | Tidak ada akses ke data Kawan |
 
@@ -234,5 +242,6 @@ Perusahaan dan pemberi kerja sebagai lembaga, serta partai politik, tidak diliba
 - Kegiatan terbuka mana yang boleh diikuti Sekutu, dan bagaimana menjaga Kawan tetap nyaman bicara di kegiatan itu.
 - Apakah manajer menjadi Kawan dengan tanggung jawab tambahan (usulan ini), atau Sekutu.
 - Kapan penghasilan dari saham atau bagi hasil dianggap "sebagian besar", misalnya lebih dari separuh penghasilan setahun.
+- Bagaimana dukungan calon Sekutu terhadap kepentingan pekerja dinilai (bukti apa yang cukup), fungsi pengurus mana yang memutuskan, dan bagaimana keberatannya diajukan.
 - Apakah Kawan manajer bisa memegang fungsi pengurus lain, dan apakah ada kanal di ruang bersama khusus untuk Kawan tanpa manajer.
 - Apakah rumusan formulir di [rekati.org/gabung](https://rekati.org/gabung) dan halaman Tentang sudah cukup jelas, supaya manajer tidak merasa tertolak, dan pimpinan perusahaan, staf HR, dan perekrut tahu jalur Sekutu.
