@@ -81,7 +81,7 @@ Mereka bisa menjadi Sekutu (lihat [bagian 9](#9-keterlibatan-di-luar-kawan)) **h
 - menjalankan hak pekerja sesuai aturan ketenagakerjaan, misalnya soal kontrak, lembur, cuti, BPJS, dan pesangon; dan
 - memakai posisinya untuk memperbaiki praktik kerja, bukan untuk menekan pekerja.
 
-Pengurus memutuskan apakah seseorang diterima sebagai Sekutu, dan bisa mencabut status itu kalau ia bertindak merugikan pekerja. Yang tidak memenuhi syarat Sekutu tetap bisa membaca situs dan ikut kegiatan yang terbuka untuk publik.
+Pengurus memutuskan apakah seseorang diterima sebagai Sekutu, dan bisa mencabut status itu kalau ia bertindak merugikan pekerja. Jalur pendaftaran Sekutu sedang dipersiapkan (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)). Yang tidak memenuhi syarat Sekutu tetap bisa membaca situs dan ikut kegiatan yang terbuka untuk publik.
 
 ### Kalau posisi berubah
 
@@ -243,6 +243,6 @@ Hal-hal di bawah belum diatur dan menjadi bahan rapat berikutnya. Begitu diputus
 - Apakah donasi pribadi dari Sekutu perlu batas atau dicatat terbuka, supaya REKATI tetap independen.
 - Kegiatan terbuka mana yang boleh diikuti Sekutu, dan bagaimana menjaga Kawan tetap nyaman bicara di kegiatan itu.
 - Kapan penghasilan dari saham atau bagi hasil dianggap "sebagian besar", misalnya lebih dari separuh penghasilan setahun.
-- Bagaimana dukungan calon Sekutu terhadap kepentingan pekerja dinilai (bukti apa yang cukup), fungsi pengurus mana yang memutuskan, dan bagaimana keberatannya diajukan.
+- Jalur pendaftaran Sekutu, yang sedang dipersiapkan: lewat formulir atau halaman apa, bagaimana dukungan calon Sekutu terhadap kepentingan pekerja dinilai (bukti apa yang cukup), fungsi pengurus mana yang memutuskan, dan bagaimana keberatannya diajukan.
 - Apakah Kawan manajer bisa memegang fungsi pengurus lain, dan apakah ada kanal di ruang bersama khusus untuk Kawan tanpa manajer.
 - Apakah rumusan formulir di [rekati.org/gabung](https://rekati.org/gabung) dan halaman Tentang sudah cukup jelas, supaya manajer tidak merasa tertolak, dan pimpinan perusahaan, staf HR, dan perekrut tahu jalur Sekutu.
