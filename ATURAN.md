@@ -19,7 +19,7 @@ Siapa pun yang mau memperbaiki dunia kerja teknologi punya tempat di REKATI. Tab
 | Bekerja tanpa memimpin atau menilai orang lain, junior maupun senior, tetap, kontrak, atau magang; juga pelajar dan pencari kerja | Kawan |
 | Memimpin atau menilai orang lain, misalnya tech lead, engineering manager, manajer, dan pewawancara | Kawan, dengan tanggung jawab tambahan |
 | Pekerja mandiri dan pengelola usaha setara | Kawan |
-| Pimpinan perusahaan | Sekutu |
+| Pimpinan perusahaan, serta staf HR dan perekrut | Sekutu |
 | TWC, lembaga bantuan hukum (LBH), organisasi pekerja, dan komunitas lain | Mitra |
 | Siapa saja | Publik |
 
@@ -32,14 +32,15 @@ Istilah di bawah dipakai dengan arti yang sama persis di aturan ini, di formulir
 - **Pekerja lain**: orang yang bekerja untuk pemberi kerja yang sama atau untuk usaha milik orang itu, dengan status apa pun (tetap, kontrak, magang berbayar).
 - **Pimpinan perusahaan**: orang yang menetapkan kebijakan kepegawaian perusahaan, bukan hanya menjalankannya: pemilik dan pendiri yang mempekerjakan orang lain, direksi, komisaris, jajaran C-level, dan orang lain yang memutuskan anggaran gaji, pemberhentian massal, atau struktur organisasi.
 - **Manajer**: pekerja yang memegang keputusan kepegawaian atas timnya sendiri, tetapi masih bekerja di bawah atasan yang bisa memberhentikannya atau menentukan gajinya, dan tidak ikut menetapkan kebijakan kepegawaian perusahaan.
+- **Staf HR dan perekrut**: orang yang pekerjaannya menjalankan perekrutan, pemberhentian, penggajian, atau hubungan kepegawaian atas nama pemberi kerja, misalnya HR, people operations, talent acquisition, dan perekrut, termasuk perekrut dari agensi. Engineer atau manajer yang ikut mewawancarai tidak termasuk.
 
-Yang menentukan adalah posisi dan wewenangnya, bukan nama jabatan atau bidang kerjanya.
+Yang menentukan adalah posisi dan fungsinya, bukan nama jabatannya.
 
 ### Yang bisa menjadi Kawan
 
-Siapa pun yang bukan pimpinan perusahaan dan termasuk salah satu di bawah:
+Siapa pun yang bukan pimpinan perusahaan, staf HR, atau perekrut, dan termasuk salah satu di bawah:
 
-- **Tech worker**: orang yang bekerja di industri teknologi, apa pun peran dan senioritasnya (engineering, desain, product dan project management, tech sales, support, HR, rekrutmen, dan lainnya), atau orang yang mengerjakan pekerjaan teknologi di industri lain.
+- **Tech worker**: orang yang bekerja di industri teknologi, apa pun peran dan senioritasnya (engineering, desain, product dan project management, tech sales, support, dan lainnya), atau orang yang mengerjakan pekerjaan teknologi di industri lain.
 - **Tech-enabled worker**: pekerja yang pekerjaannya dijalankan lewat sistem digital, misalnya agen support, moderator konten, dan pelabel data.
 - **Pekerja mandiri**: freelancer, kontraktor perorangan, atau pemilik usaha perorangan di bidang teknologi yang tidak mempekerjakan orang lain.
 - **Pengelola usaha setara**: pendiri usaha kecil, misalnya software house atau studio, yang semua pendirinya ikut bekerja, tidak ada yang bisa memberhentikan pendiri lain, dan usaha itu tidak mempekerjakan pekerja lain.
@@ -70,15 +71,15 @@ Kalau posisinya tidak jelas, pengurus verifikasi menanyakan hal-hal berikut. Tid
 3. Apakah sebagian besar penghasilanmu dari kepemilikan usaha, saham, atau bagi hasil, bukan dari gaji? Kalau ya, kepentinganmu lebih dekat ke pemberi kerja.
 4. Dalam pekerjaan sehari-hari, apakah posisimu lebih dekat ke orang-orang yang kamu pimpin, atau ke pimpinan perusahaan?
 
-### Pimpinan perusahaan: jalur Sekutu
+### Pimpinan perusahaan, staf HR, dan perekrut: jalur Sekutu
 
-Pimpinan perusahaan terlibat sebagai Sekutu (lihat [bagian 9](#9-keterlibatan-di-luar-kawan)), apa pun jabatannya. Di ruang bersama, Kawan membicarakan gaji, kontrak, dan pemberhentian, sedangkan kebijakan atas hal-hal itu ditetapkan pimpinan perusahaan. Memisahkan dua peran ini menjaga Kawan tetap bisa bicara jujur. Ini soal benturan kepentingan, bukan penilaian atas orangnya; jalur Sekutu ada untuk pimpinan perusahaan yang peduli pada praktik kerja yang adil.
+Pimpinan perusahaan terlibat sebagai Sekutu (lihat [bagian 9](#9-keterlibatan-di-luar-kawan)), apa pun jabatannya. Begitu juga staf HR dan perekrut, apa pun senioritasnya. Di ruang bersama, Kawan membicarakan gaji, kontrak, dan pemberhentian. Kebijakan atas hal-hal itu ditetapkan pimpinan perusahaan dan dijalankan staf HR dan perekrut atas nama pemberi kerja. Memisahkan peran-peran ini menjaga Kawan tetap bisa bicara jujur. Ini soal benturan kepentingan, bukan penilaian atas orangnya; jalur Sekutu ada untuk mereka yang peduli pada praktik kerja yang adil.
 
 ### Kalau posisi berubah
 
-- Kawan yang menjadi pimpinan perusahaan memberi tahu pengurus verifikasi dalam 30 hari, lalu beralih menjadi Sekutu. Ini bukan sanksi.
+- Kawan yang menjadi pimpinan perusahaan, staf HR, atau perekrut memberi tahu pengurus verifikasi dalam 30 hari, lalu beralih menjadi Sekutu. Ini bukan sanksi.
 - Kawan yang menjadi manajer memberi tahu pengurus verifikasi dalam 30 hari dan tetap Kawan, dengan tanggung jawab tambahan di atas.
-- Sekutu yang tidak lagi menjadi pimpinan perusahaan bisa mendaftar lagi sebagai Kawan.
+- Sekutu yang tidak lagi menjadi pimpinan perusahaan, staf HR, atau perekrut bisa mendaftar lagi sebagai Kawan.
 - Kalau posisi calon atau Kawan tidak jelas, pengurus verifikasi menanyakannya dan memutuskan. Keputusan itu bisa diajukan keberatan.
 
 ## 2. Bergabung
@@ -175,7 +176,7 @@ Pelanggaran:
 - Bertindak sewenang-wenang sehingga merugikan REKATI.
 - Memakai nama REKATI untuk keuntungan pribadi di luar yang diatur dalam Aturan Komunitas ini.
 - Melakukan pelanggaran ringan tiga kali berturut-turut.
-- Sengaja tidak memberi tahu, atau menyembunyikan, bahwa dirinya menjadi manajer atau pimpinan perusahaan.
+- Sengaja tidak memberi tahu, atau menyembunyikan, bahwa dirinya menjadi manajer, pimpinan perusahaan, staf HR, atau perekrut.
 
 ### Berat
 
@@ -213,7 +214,7 @@ REKATI terbuka bagi siapa pun yang mau memperbaiki dunia kerja teknologi. Keterl
 
 | Jalur | Siapa | Boleh | Batasan |
 | --- | --- | --- | --- |
-| Sekutu | Pimpinan perusahaan yang mendukung praktik kerja yang adil, misalnya pemilik usaha, pendiri, direksi, dan C-level | Ikut kegiatan terbuka, menjadi narasumber, menyumbang tulisan untuk Panduan, berdonasi sebagai pribadi | Tidak masuk ruang bersama, tidak bisa menjadi pengurus, tidak melihat identitas atau isian formulir Kawan, tidak memakai REKATI untuk merekrut atau mempromosikan perusahaan |
+| Sekutu | Pimpinan perusahaan yang mendukung praktik kerja yang adil, misalnya pemilik usaha, pendiri, direksi, dan C-level, serta staf HR dan perekrut | Ikut kegiatan terbuka, menjadi narasumber, menyumbang tulisan untuk Panduan, berdonasi sebagai pribadi | Tidak masuk ruang bersama, tidak bisa menjadi pengurus, tidak melihat identitas atau isian formulir Kawan, tidak memakai REKATI untuk merekrut atau mempromosikan perusahaan |
 | Mitra | TWC, lembaga bantuan hukum (LBH), organisasi pekerja, dan komunitas lain | Kerja sama kegiatan dan rujukan | Lewat fungsi Hubungan nasional atau Hubungan internasional |
 | Publik | Siapa saja | Membaca situs dan media sosial, ikut kegiatan terbuka | Tidak ada akses ke data Kawan |
 
@@ -234,4 +235,4 @@ Perusahaan dan pemberi kerja sebagai lembaga, serta partai politik, tidak diliba
 - Apakah manajer menjadi Kawan dengan tanggung jawab tambahan (usulan ini), atau Sekutu.
 - Kapan penghasilan dari saham atau bagi hasil dianggap "sebagian besar", misalnya lebih dari separuh penghasilan setahun.
 - Apakah Kawan manajer bisa memegang fungsi pengurus lain, dan apakah ada kanal di ruang bersama khusus untuk Kawan tanpa manajer.
-- Apakah rumusan formulir di [rekati.org/gabung](https://rekati.org/gabung) dan halaman Tentang sudah cukup jelas, supaya manajer tidak merasa tertolak dan pimpinan perusahaan tahu jalur Sekutu.
+- Apakah rumusan formulir di [rekati.org/gabung](https://rekati.org/gabung) dan halaman Tentang sudah cukup jelas, supaya manajer tidak merasa tertolak, dan pimpinan perusahaan, staf HR, dan perekrut tahu jalur Sekutu.
