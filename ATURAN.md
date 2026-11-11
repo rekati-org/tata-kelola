@@ -1,6 +1,6 @@
 # Aturan Komunitas REKATI
 
-Status: draf, disusun dari [rapat 9 November 2026](notulen/2026-11-09.md).
+Status: berlaku sejak 11 November 2026, disusun dari rapat 9 November 2026 dan disetujui lewat usulan tertulis.
 
 Aturan ini mengatur siapa yang bisa menjadi Kawan, cara bergabung dan dikeluarkan, pengurus, ruang bersama, kegiatan, sanksi, iuran, dan keterlibatan di luar Kawan. Cara Kawan saling memperlakukan diatur di [Kode Etik](https://rekati.org/kode-etik). Keduanya berlaku bersama.
 
@@ -228,7 +228,9 @@ REKATI terbuka bagi siapa pun yang mau memperbaiki dunia kerja teknologi. Keterl
 
 Perusahaan dan pemberi kerja sebagai lembaga, serta partai politik, tidak dilibatkan: tidak ada sponsor, dana, atau dukungan atas nama mereka.
 
-## Belum diputuskan
+## Bahan bahasan berikutnya
+
+Hal-hal di bawah belum diatur dan menjadi bahan rapat berikutnya. Begitu diputuskan, keputusannya masuk ke bagian yang sesuai di atas.
 
 - Iuran dibayar per bulan atau dengan jangka lain.
 - Kas dipakai untuk apa saja, dan manfaat apa yang adil bagi pembayar iuran selama REKATI belum bekerja sama dengan LBH.
@@ -240,7 +242,6 @@ Perusahaan dan pemberi kerja sebagai lembaga, serta partai politik, tidak diliba
 - Apakah memakai jasa freelancer per proyek termasuk memegang keputusan atas gaji pekerja lain.
 - Apakah donasi pribadi dari Sekutu perlu batas atau dicatat terbuka, supaya REKATI tetap independen.
 - Kegiatan terbuka mana yang boleh diikuti Sekutu, dan bagaimana menjaga Kawan tetap nyaman bicara di kegiatan itu.
-- Apakah manajer menjadi Kawan dengan tanggung jawab tambahan (usulan ini), atau Sekutu.
 - Kapan penghasilan dari saham atau bagi hasil dianggap "sebagian besar", misalnya lebih dari separuh penghasilan setahun.
 - Bagaimana dukungan calon Sekutu terhadap kepentingan pekerja dinilai (bukti apa yang cukup), fungsi pengurus mana yang memutuskan, dan bagaimana keberatannya diajukan.
 - Apakah Kawan manajer bisa memegang fungsi pengurus lain, dan apakah ada kanal di ruang bersama khusus untuk Kawan tanpa manajer.
