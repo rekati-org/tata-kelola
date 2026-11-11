@@ -19,6 +19,8 @@ Cara Kawan saling memperlakukan diatur di [Kode Etik](https://rekati.org/kode-et
 2. Ubah berkasnya, lalu buka PR. Tulis alasannya. Kalau perubahan itu diputuskan di rapat, tautkan notulennya.
 3. Minimal satu Kawan lain harus menyetujui PR sebelum di-merge. `main` tidak bisa di-push langsung.
 
+Hal yang belum diputuskan ditulis di bagian "Bahan bahasan berikutnya" di akhir `ATURAN.md`, dan dibawa ke rapat berikutnya.
+
 ## Privasi
 
 Repo ini bisa dibaca semua orang. Jangan menulis nama lengkap, nomor telepon, tempat kerja, atau detail lain yang bisa mengungkap identitas Kawan. Di notulen, cukup tulis jumlah yang hadir atau peran (misalnya "pengurus verifikasi").
