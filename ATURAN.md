@@ -1,6 +1,6 @@
 # Aturan Komunitas REKATI
 
-Status: berlaku sejak 11 November 2026, disusun dari rapat 9 November 2026 dan disetujui lewat usulan tertulis.
+Status: berlaku sejak 11 November 2026, disusun dari [rapat 9 November 2026](notulen/2026-11-09.md) dan disetujui lewat usulan tertulis.
 
 Aturan ini mengatur siapa yang bisa menjadi Kawan, cara bergabung dan dikeluarkan, pengurus, ruang bersama, kegiatan, sanksi, iuran, dan keterlibatan di luar Kawan. Cara Kawan saling memperlakukan diatur di [Kode Etik](https://rekati.org/kode-etik). Keduanya berlaku bersama.
 
