@@ -1,6 +1,6 @@
 # Tata Kelola REKATI
 
-REKATI (Ruang Eksplorasi Kawan Teknologi Informasi) adalah komunitas tech worker di Jakarta Raya dan chapter Tech Workers Coalition (TWC). Halaman ini memuat aturan yang berlaku di REKATI dan catatan rapat yang memutuskannya. Siapa pun boleh membacanya.
+REKATI (Ruang Eksplorasi Kawan Teknologi Informasi) adalah perkumpulan pengorganisir tech worker di Jakarta Raya dan chapter Tech Workers Coalition (TWC). Halaman ini memuat aturan yang berlaku di REKATI dan catatan rapat yang memutuskannya. Siapa pun boleh membacanya.
 
 ## Baca
 

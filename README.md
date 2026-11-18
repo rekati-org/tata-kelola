@@ -1,6 +1,6 @@
 # Tata Kelola REKATI
 
-Aturan dan catatan rapat REKATI (Ruang Eksplorasi Kawan Teknologi Informasi), komunitas tech worker di Jakarta Raya dan chapter Tech Workers Coalition (TWC).
+Aturan dan catatan rapat REKATI (Ruang Eksplorasi Kawan Teknologi Informasi), perkumpulan pengorganisir tech worker di Jakarta Raya dan chapter Tech Workers Coalition (TWC).
 
 Repo ini publik supaya siapa pun bisa membaca aturan yang berlaku. Isinya hanya bisa diubah lewat pull request (PR) oleh Kawan yang tergabung di organisasi GitHub `rekati-org`.
 

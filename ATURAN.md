@@ -2,7 +2,7 @@
 
 Status: Versi 1.0, menunggu pengesahan. Disusun dari [rapat 9 November 2026](notulen/2026-11-09.md) dan [telaah 18 November 2026](notulen/2026-11-18.md) ([butir telaah K1 sampai K34](notulen/2026-11-18-telaah.md)). Sampai versi ini disahkan, aturan yang berlaku sejak 11 November 2026 tetap dipakai.
 
-REKATI (Ruang Eksplorasi Kawan Teknologi Informasi) adalah komunitas pekerja teknologi yang saling membantu dan membela kepentingan pekerja. REKATI bukan serikat pekerja. REKATI membantu Kawan lewat informasi, pendampingan, dan rujukan ke lembaga bantuan hukum (LBH). REKATI tidak mewakili Kawan berunding dengan pemberi kerja.
+REKATI (Ruang Eksplorasi Kawan Teknologi Informasi) adalah perkumpulan pengorganisir pekerja teknologi. REKATI bukan serikat pekerja. REKATI melahirkan dan mendampingi organizer, dan membantu Kawan lewat informasi, pendampingan, dan rujukan ke lembaga bantuan hukum (LBH). REKATI tidak mewakili Kawan berunding dengan pemberi kerja.
 
 Aturan ini mengatur siapa yang bisa menjadi Kawan, cara bergabung dan dikeluarkan, struktur REKATI, ruang bersama, kegiatan, hal yang kami dorong, pelanggaran dan sanksi, serta iuran dan kas. Cara Kawan saling memperlakukan diatur di [Kode Etik](https://rekati.org/kode-etik). Keduanya berlaku bersama. Kalau isinya berbeda, Aturan Komunitas yang berlaku [usulan].
 
@@ -27,12 +27,15 @@ Istilah di bawah dipakai dengan arti yang sama di aturan ini, di formulir, dan d
 - **Komunitas WhatsApp REKATI**: kumpulan grup WhatsApp milik REKATI.
 - **Ruang bersama**: grup umum di Komunitas WhatsApp REKATI, tempat semua Kawan berbicara. Aturan ini selalu menyebutnya ruang bersama.
 - **Kanal**: grup lain di Komunitas WhatsApp REKATI, misalnya grup satu kelompok minat.
-- **Plenum**: perkumpulan pekerja. Tingkatnya dijelaskan di [bagian 4](#4-struktur-rekati).
+- **REKATI**: perkumpulan pengorganisir pekerja teknologi, bukan serikat pekerja. Perkumpulan pengorganisir berarti perkumpulan yang melahirkan dan mendampingi organizer.
+- **Plenum**: perkumpulan pekerja. Ada dua: Plenum Pusat dan Plenum tersebar (lihat [bagian 4](#4-struktur-rekati)).
+- **Plenum Pusat**: Perkumpulan REKATI.
+- **Plenum tersebar**: perkumpulan pekerja yang dibentuk organizer. Bentuknya bisa Plenum Kantor, Plenum Wilayah, atau Plenum Bidang.
 - **Dewan Fungsionaris**: tujuh Kawan yang membagi dan menjalankan fungsi REKATI. Masing-masing disebut fungsionaris.
 - **Fungsi**: satu bidang kerja REKATI, misalnya Verifikasi.
 - **Penanggung jawab (PJ)**: fungsionaris yang bertanggung jawab atas satu fungsi.
 - **Kawan pelaksana**: Kawan yang membantu PJ menjalankan satu fungsi.
-- **Periode**: masa tugas Dewan Fungsionaris.
+- **Periode**: masa tugas Dewan Fungsionaris. Lamanya belum ditentukan.
 - **Task force**: kelompok kerja untuk satu tugas tertentu.
 - **3S**: Saling Belajar, Saling Dukung, dan Saling Jaga.
 - **Kelompok minat (special interest group, SIG)**: kelompok Kawan yang belajar atau berbagi soal satu topik.
@@ -165,20 +168,26 @@ Sebelum dikeluarkan, Kawan diberi tahu secara tertulis dan punya 7 hari untuk me
 
 ## 4. Struktur REKATI
 
-Inti kerja REKATI adalah melahirkan dan mendampingi organizer. 3S adalah jalan masuknya.
+REKATI adalah perkumpulan pengorganisir. Inti kerjanya melahirkan dan mendampingi organizer. 3S adalah jalan masuknya.
+
+Fokus utama REKATI saat ini adalah mendapat status resmi sebagai perkumpulan berbadan hukum. Ini dikerjakan task force legalitas dan administrasi (lihat [Task force](#task-force)).
 
 ### Plenum
 
-Plenum adalah perkumpulan pekerja. Tingkatnya:
+Plenum adalah perkumpulan pekerja. Hanya ada dua:
 
-| Plenum | Isinya |
+- **Plenum Pusat**: Perkumpulan REKATI.
+- **Plenum tersebar**: perkumpulan pekerja yang dibentuk organizer.
+
+Plenum tersebar punya tiga bentuk:
+
+| Bentuk | Isinya |
 | --- | --- |
-| Plenum Pusat | Perkumpulan REKATI |
 | Plenum Kantor | Perkumpulan pekerja di satu kantor |
 | Plenum Wilayah | Perkumpulan pekerja di satu wilayah, misalnya di luar Jakarta Raya |
 | Plenum Bidang | Perkumpulan pekerja di satu bidang atau sektor, misalnya pekerja outsourcing atau startup kecil |
 
-Plenum Kantor, Plenum Wilayah, dan Plenum Bidang lahir dari organizer. Fungsi Lingkar tempat kerja menghubungkan ketiganya.
+Kantor, Wilayah, dan Bidang adalah bentuk. Tidak ada Plenum yang berada di atas atau di bawah Plenum lain. Fungsi Lingkar tempat kerja menghubungkan Plenum tersebar.
 
 Cara memilih wakil Plenum dan cara Plenum memutuskan belum diatur (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 
@@ -197,7 +206,6 @@ Dewan Fungsionaris terdiri dari tujuh Kawan. Cara kerjanya:
 Yang masih berupa usulan [usulan]:
 
 - **Cara memilih**: Dewan Fungsionaris dipilih oleh Kawan.
-- **Periode**: 12 bulan.
 - **Batas rangkap**: satu fungsionaris memegang paling banyak dua fungsi.
 - **Keputusan**: diambil dengan mufakat. Kalau mufakat tidak tercapai, dengan suara terbanyak dalam rapat yang dihadiri sedikitnya lima fungsionaris.
 
@@ -211,7 +219,7 @@ Setiap fungsi punya satu PJ dari Dewan Fungsionaris, dibantu Kawan pelaksana.
 | --- | --- | --- |
 | Ingin belajar dan berkembang | Saling Belajar | Belajar bersama (fokus ketenagakerjaan dan pengorganisasian); Kelompok minat (SIG), dimulai dengan SIG Cloud Native |
 | Butuh kerja, referral, dan jejaring | Saling Dukung | Karier dan jejaring; Perluasan, termasuk konsolidasi (menyambut Kawan baru, moderasi); Media sosial dan Kabar |
-| Ada masalah di tempat kerja | Saling Jaga | Task force ketenagakerjaan; Lingkar tempat kerja (menghubungkan Plenum Kantor, Wilayah, Bidang); Verifikasi |
+| Ada masalah di tempat kerja | Saling Jaga | Task force ketenagakerjaan; Lingkar tempat kerja (menghubungkan Plenum tersebar); Verifikasi |
 
 Moderasi ruang bersama ada di fungsi Perluasan (lihat [bagian 5](#5-ruang-bersama)). Fungsi Verifikasi memeriksa calon Kawan (lihat [bagian 2](#2-bergabung)).
 
@@ -221,7 +229,7 @@ Task force dibentuk untuk satu tugas tertentu:
 
 - **Task force ketenagakerjaan**: bagian dari Saling Jaga. Membantu Kawan yang punya masalah di tempat kerja.
 - **Task force perumus aturan**: di luar 3S. Merumuskan Aturan Komunitas dan perubahannya.
-- **Task force legalitas dan administrasi**: di luar 3S. Menyiapkan perkumpulan berbadan hukum.
+- **Task force legalitas dan administrasi**: di luar 3S. Mengurus status resmi REKATI sebagai perkumpulan berbadan hukum. Ini fokus utama REKATI saat ini.
 
 ## 5. Ruang bersama
 
@@ -329,7 +337,7 @@ Sanksi, satu atau lebih:
 
 - mengganti kerugian, kalau REKATI dirugikan;
 - dicopot dari fungsinya;
-- tidak boleh memegang fungsi selama satu periode;
+- tidak boleh memegang fungsi untuk waktu yang ditetapkan Dewan Fungsionaris;
 - diminta mundur dari REKATI;
 - dikeluarkan dari REKATI.
 
@@ -354,7 +362,7 @@ Sanksi, satu atau lebih:
 
 - mengganti kerugian, kalau REKATI dirugikan;
 - dicopot dari fungsinya;
-- tidak boleh memegang fungsi selama tiga periode;
+- tidak boleh memegang fungsi untuk waktu yang ditetapkan Dewan Fungsionaris;
 - dikeluarkan dari REKATI.
 
 Pelanggaran:
@@ -364,7 +372,7 @@ Pelanggaran:
 - Melakukan kekerasan seksual menurut Undang-Undang Nomor 12 Tahun 2022 tentang Tindak Pidana Kekerasan Seksual (UU TPKS), di dalam maupun di luar REKATI.
 - Melakukan tindak pidana yang sudah diputus pengadilan.
 - Sengaja menyebarkan informasi palsu atau menghasut untuk memecah REKATI.
-- Meminta atau menerima hadiah yang berkaitan dengan fungsinya. Hadiah bernilai di bawah Rp100.000 yang dilaporkan ke Dewan Fungsionaris tidak termasuk [usulan].
+- Meminta atau menerima hadiah yang berkaitan dengan fungsinya. Batas nilai hadiah yang boleh diterima belum ditentukan.
 - Memakai informasi dari REKATI untuk keputusan yang merugikan pekerja, misalnya untuk membalas, menghambat, atau memberhentikan Kawan atau orang di timnya (lihat [bagian 1](#kawan-yang-memimpin-atau-menilai-orang-lain)).
 - Memakai nama atau logo REKATI untuk mengampanyekan atau mendukung kelompok politik, partai politik, atau calon dalam pemilihan.
 - Melakukan pelanggaran lain yang sama beratnya terhadap Aturan Komunitas atau Kode Etik. Pelanggaran semacam ini ditetapkan Dewan Fungsionaris dengan alasan tertulis, dan hanya berlaku untuk kejadian setelah penetapan [usulan].
@@ -373,21 +381,18 @@ Pelanggaran:
 
 ### Iuran
 
-- **Besarnya**: Kawan memilih sendiri, dari Rp15.000 sampai Rp30.000 per bulan [usulan].
+- **Besarnya**: Kawan memilih sendiri, dari Rp15.000 sampai Rp30.000.
 - **Wajib** bagi Kawan yang bekerja penuh waktu, paruh waktu, atau kontrak, termasuk magang berbayar.
 - **Tidak wajib** bagi pelajar dan mahasiswa yang tidak bekerja atau magang tanpa bayaran, serta pencari kerja yang tidak bergaji.
 - **Keringanan**: Kawan yang sedang kesulitan boleh meminta keringanan.
-- **Menunggak**: Kawan yang menunggak 3 bulan diingatkan. Akibat lain belum diatur [usulan].
+- **Menunggak**: belum ditentukan.
 - **Donasi**: kelebihan di atas Rp30.000 dicatat sebagai donasi.
 
 ### Kas
 
 - **Pencatatan**: setiap iuran, donasi, dan pengeluaran dicatat.
 - **Penyimpanan**: untuk sementara, kas disimpan di satu rekening bank atas nama seorang pendiri. Rekening itu khusus untuk kas REKATI dan tidak dicampur dengan uang pribadi.
-- **Pemindahan**: saldo dipindahkan ke rekening atas nama REKATI paling lambat 30 hari setelah rekening itu ada [usulan].
-- **Siapa yang bisa melihat mutasi**: Dewan Fungsionaris dan satu Kawan di luar Dewan Fungsionaris [usulan].
-- **Pengeluaran**: pengeluaran di atas Rp500.000 disetujui dua fungsionaris [usulan].
-- **Laporan**: laporan kas dibagikan ke Kawan setiap bulan [usulan].
+- **Belum ditentukan**: pemindahan kas ke rekening atas nama REKATI, siapa yang bisa melihat mutasi, batas dan persetujuan pengeluaran, dan laporan kas (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 - **Donasi publik**: akan dibuka lewat Saweria. Donasi tanpa nama dicatat sebagai donasi anonim.
 - **Yang ditolak**: sponsor, dana, atau donasi atas nama perusahaan, pemberi kerja, atau partai politik.
 
@@ -410,14 +415,22 @@ Struktur:
 
 - Cara memilih wakil Plenum.
 - Cara Plenum memutuskan.
-- Siapa yang bisa ikut Plenum Kantor, Plenum Wilayah, dan Plenum Bidang, dan kapan sebuah kelompok disebut Plenum.
+- Siapa yang bisa ikut Plenum tersebar, dan kapan sebuah kelompok disebut Plenum.
+- Berapa lama satu periode Dewan Fungsionaris.
 - Apakah perlu kanal khusus untuk Kawan yang tidak memimpin atau menilai orang lain.
 
 Sanksi:
 
 - Bagaimana Kawan mengajukan keberatan atas sanksi.
+- Batas nilai hadiah yang boleh diterima fungsionaris, dan cara melaporkannya.
 
 Iuran dan kas:
 
 - Kas dipakai untuk apa saja, dan manfaat apa yang adil bagi pembayar iuran selama REKATI belum bekerja sama dengan LBH.
 - Apakah pekerja mandiri dan pengelola usaha setara membayar iuran, dan berapa.
+- Iuran dibayar per bulan atau dengan jangka lain.
+- Apa yang terjadi kalau Kawan menunggak iuran.
+- Kapan kas dipindahkan ke rekening atas nama REKATI.
+- Siapa yang bisa melihat mutasi rekening kas.
+- Batas pengeluaran dan siapa yang menyetujuinya.
+- Seberapa sering laporan kas dibagikan ke Kawan.
