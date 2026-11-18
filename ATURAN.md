@@ -39,26 +39,27 @@ Istilah di bawah dipakai dengan arti yang sama di aturan ini, di formulir, dan d
 - **Organizer**: Kawan yang mengajak dan menghubungkan pekerja di kantor, wilayah, atau bidangnya.
 - **Pendiri**: Kawan yang ikut memulai REKATI sebelum aturan ini ada.
 - **Kabar**: rangkuman bulanan dari post media sosial REKATI.
-- **Tech Workers Coalition (TWC)**: jaringan komunitas pekerja teknologi di banyak negara. REKATI adalah chapter TWC.
+- **Tech Workers Coalition (TWC)**: jaringan komunitas pekerja teknologi di banyak negara. REKATI adalah cabang (chapter) TWC untuk Jakarta Raya.
 - **Lembaga bantuan hukum (LBH)**: lembaga yang memberi bantuan hukum, tempat REKATI merujuk Kawan yang membutuhkannya.
+- **Referral**: rekomendasi kerja dari orang yang mengenal pekerjaan kita.
 
 ### Istilah posisi kerja
 
 - **Pekerja**: orang yang penghasilan utamanya dari upah, honor, atau tarif atas pekerjaannya, bukan dari memiliki atau menjalankan perusahaan yang mempekerjakan orang lain.
 - **Keputusan kepegawaian**: keputusan akhir atas perekrutan, pemberhentian, atau gaji, tunjangan, dan pesangon pekerja lain.
 - **Keputusan akhir**: keputusan yang berlaku tanpa perlu disetujui orang lain. Memberi masukan, mewawancarai, menilai kinerja, atau mengusulkan tidak termasuk.
-- **Pekerja lain**: orang yang dibayar untuk bekerja pada pemberi kerja yang sama dengan seseorang, atau pada usaha milik orang itu, dengan status apa pun (tetap, kontrak, magang berbayar). Pekerja outsourcing, pekerja vendor, dan freelancer dihitung kalau bekerja di bawah arahan sehari-hari orang itu [usulan].
-- **Pimpinan perusahaan**: orang yang menetapkan kebijakan kepegawaian perusahaan, bukan hanya menjalankannya. Termasuk pemilik dan pendiri yang mempekerjakan orang lain, direksi, komisaris, jajaran C-level, dan orang lain yang memutuskan anggaran gaji, pemberhentian massal, atau struktur organisasi untuk seluruh perusahaan.
-- **Manajer**: pekerja yang memegang keputusan kepegawaian atas timnya sendiri, tetapi masih bekerja di bawah atasan yang bisa memberhentikannya atau menentukan gajinya, dan tidak ikut menetapkan kebijakan kepegawaian perusahaan.
-- **Staf HR dan perekrut**: orang yang lebih dari separuh waktu kerjanya dipakai untuk perekrutan, pemberhentian, penggajian, atau hubungan kepegawaian atas nama pemberi kerja. Contohnya staf human resources (HR), people operations, talent acquisition, dan perekrut, termasuk perekrut dari agensi. Staf penggajian dan BPJS termasuk [usulan]. Staf pelatihan (learning and development) dan employer branding tidak termasuk [usulan]. Engineer atau manajer yang ikut mewawancarai juga tidak termasuk.
+- **Pekerja lain**: orang yang dibayar untuk bekerja pada pemberi kerja yang sama dengan seseorang, atau pada usaha milik orang itu. Statusnya bisa apa saja: tetap, kontrak, atau magang berbayar. Pekerja outsourcing, pekerja vendor, dan freelancer dihitung kalau bekerja di bawah arahan sehari-hari orang itu [usulan].
+- **Pimpinan perusahaan**: orang yang menetapkan kebijakan kepegawaian perusahaan, bukan hanya menjalankannya. Termasuk pemilik dan pendiri yang mempekerjakan orang lain, direksi, komisaris, dan jajaran C-level (direktur utama dan direktur setingkatnya). Termasuk juga orang lain yang memutuskan anggaran gaji, pemberhentian massal, atau struktur organisasi untuk seluruh perusahaan.
+- **Manajer**: pekerja yang memegang keputusan kepegawaian atas timnya sendiri. Ia masih bekerja di bawah atasan yang bisa memberhentikannya atau menentukan gajinya, dan tidak ikut menetapkan kebijakan kepegawaian perusahaan.
+- **Staf HR dan perekrut**: orang yang lebih dari separuh waktu kerjanya dipakai untuk perekrutan, pemberhentian, penggajian, atau hubungan kepegawaian atas nama pemberi kerja. Contohnya staf human resources (HR), people operations, talent acquisition, dan perekrut, termasuk perekrut dari agensi. Staf penggajian dan BPJS termasuk [usulan]. Staf pelatihan (learning and development) dan employer branding (promosi perusahaan sebagai tempat kerja) tidak termasuk [usulan]. Engineer atau manajer yang ikut mewawancarai juga tidak termasuk.
 
 Yang menentukan adalah posisi dan fungsinya, bukan nama jabatannya.
 
 ## 1. Kawan
 
-Kawan adalah pekerja yang memenuhi syarat di bawah dan mau ikut serta. Di REKATI hanya ada Kawan. Tidak ada tingkat atau status lain.
+Kawan adalah pekerja, pelajar, atau pencari kerja yang memenuhi syarat di bawah dan mau ikut serta. Di REKATI hanya ada Kawan. Tidak ada tingkat atau status lain.
 
-REKATI berdiri di sisi kepentingan pekerja, termasuk pekerja yang memimpin tim. REKATI memakai payung lebar: yang dijaga adalah ruang tempat pekerja bisa bicara jujur soal pekerjaannya, bukan daftar jabatan yang boleh masuk. Garis batasnya ditarik pada kewenangan menentukan nasib kerja orang lain, bukan pada jabatan, bidang kerja, atau senioritas.
+REKATI berdiri di sisi kepentingan pekerja, termasuk pekerja yang memimpin tim. REKATI memakai payung lebar: yang dijaga adalah ruang tempat pekerja bisa bicara jujur soal pekerjaannya, bukan daftar jabatan yang boleh masuk. Garis batasnya ditarik pada dua hal: kewenangan menetapkan kebijakan kepegawaian perusahaan, dan pekerjaan yang menjalankan kebijakan kepegawaian atas nama pemberi kerja. Alasannya benturan kepentingan: orang di dua posisi itu bertindak untuk pemberi kerja dalam hal yang dibicarakan Kawan. Senioritas dan nama jabatan tidak menentukan.
 
 ### Siapa yang bisa bergabung
 
@@ -76,7 +77,8 @@ Siapa pun yang bukan pimpinan perusahaan, staf HR, atau perekrut, dan termasuk s
 - **Tech worker**: orang yang membangun, menjalankan, atau menjual produk teknologi, di perusahaan teknologi maupun di industri lain, apa pun peran dan senioritasnya. Contohnya engineering, desain, product dan project management, tech sales, dan support.
 - **Tech-enabled worker**: pekerja yang pekerjaan utamanya menjaga atau mendukung layanan digital dari balik sistem, misalnya agen support, moderator konten, dan pelabel data. Pengemudi dan kurir platform tidak termasuk.
 - **Pekerja mandiri**: freelancer, kontraktor perorangan, atau pemilik usaha perorangan di bidang teknologi yang tidak mempekerjakan orang lain secara tetap. Mensubkontrakkan proyek tertentu tidak menghilangkan status ini, selama ia tidak menetapkan gaji atau jam kerja orang lain [usulan].
-- **Pengelola usaha setara**: pendiri usaha kecil, misalnya software house atau studio, yang semua pendirinya ikut bekerja, tidak ada yang bisa memberhentikan pendiri lain, dan usaha itu tidak mempekerjakan pekerja lain.
+- **Pengelola usaha setara**: pendiri usaha kecil, misalnya software house (usaha jasa pembuat perangkat lunak) atau studio. Syaratnya: semua pendirinya ikut bekerja, tidak ada yang bisa memberhentikan pendiri lain, dan usaha itu tidak mempekerjakan pekerja lain.
+- **Pelajar dan pencari kerja**: orang yang sedang belajar atau mencari kerja di bidang-bidang di atas, termasuk yang baru kena pemberhentian.
 
 Memimpin tim tidak menghalangi seseorang menjadi Kawan. Manajer juga pekerja. Tanggung jawab tambahannya ada di bagian berikut.
 
@@ -84,12 +86,12 @@ Memimpin tim tidak menghalangi seseorang menjadi Kawan. Manajer juga pekerja. Ta
 
 Kawan yang memimpin atau menilai orang lain punya hak yang sama dengan Kawan lain. Karena posisinya bisa bersinggungan dengan kepentingan pemberi kerja, ia memegang tanggung jawab tambahan. Ini berlaku untuk:
 
-- **Kawan yang ikut menilai orang lain**: Kawan yang mewawancarai, menilai kinerja, atau memberi masukan soal pekerjaan orang lain, tanpa memegang keputusan akhir, misalnya tech lead atau engineering manager.
+- **Kawan yang ikut menilai orang lain**: Kawan yang mewawancarai, menilai kinerja, atau memberi masukan soal pekerjaan orang lain, tanpa memegang keputusan akhir. Contohnya tech lead atau engineering manager.
 - **Kawan manajer**: Kawan yang memenuhi definisi manajer.
 
 Tanggung jawab tambahannya:
 
-1. **Menyatakan perannya** ketika pembahasan menyangkut tim, calon pekerja, atau perusahaannya sendiri. Cukup menyebut peran, misalnya "aku engineering manager", tanpa nama perusahaan. Peran itu juga dicatat di formulir saat mendaftar.
+1. **Menyatakan perannya** ketika pembahasan menyangkut tim, calon pekerja, atau perusahaannya sendiri. Cukup menyebut peran, misalnya "aku engineering manager", tanpa nama perusahaan. Peran itu juga disebut di formulir saat mendaftar.
 2. **Tidak memegang fungsi Verifikasi, dan tidak memegang fungsi Lingkar tempat kerja untuk perusahaannya sendiri** (lihat [bagian 4](#4-struktur-rekati)).
 3. **Tidak memakai informasi dari REKATI untuk keputusan yang merugikan pekerja**, termasuk timnya sendiri. Informasi itu mencakup siapa saja yang menjadi Kawan, isi pembicaraan, dan isian formulir.
 
@@ -100,7 +102,7 @@ Untuk butir 3:
 - Kalau ada laporan, Kawan manajer menjelaskan dasar keputusannya.
 - Sanksinya ada di [bagian 7](#7-pelanggaran-dan-sanksi).
 
-Kawan manajer didorong memakai posisinya untuk membantu timnya mendapatkan haknya. Itu salah satu alasan mereka ada di REKATI. Kalau ia mendapat tekanan atau pembalasan karena itu, REKATI membantu merujuknya ke LBH mitra.
+Kawan manajer didorong memakai posisinya untuk membantu timnya mendapatkan haknya. Itu salah satu alasan mereka ada di REKATI. Kalau ia mendapat tekanan atau pembalasan karena itu, REKATI membantu merujuknya ke LBH.
 
 ### Membedakan manajer dan pimpinan perusahaan
 
@@ -117,7 +119,7 @@ Posisi di bawah C-level, misalnya head, director, atau vice president, ditentuka
 
 Pimpinan perusahaan, staf HR, dan perekrut belum bisa bergabung untuk sementara, apa pun jabatan dan senioritasnya. Dukungan mereka kami hargai.
 
-Alasannya: di ruang bersama, Kawan membicarakan gaji, kontrak, dan pemberhentian. Kebijakan atas hal-hal itu ditetapkan pimpinan perusahaan, lalu dipegang atau dijalankan staf HR dan perekrut atas nama pemberi kerja. Memisahkan peran-peran ini menjaga Kawan tetap bisa bicara jujur. Ini bukan penilaian atas orangnya.
+Alasannya benturan kepentingan. Di ruang bersama, Kawan membicarakan gaji, kontrak, dan pemberhentian. Kebijakan atas hal-hal itu ditetapkan pimpinan perusahaan, lalu dijalankan staf HR dan perekrut atas nama pemberi kerja. Memisahkan peran-peran ini menjaga Kawan tetap bisa bicara jujur. Ini bukan penilaian atas orangnya.
 
 Mereka tetap bisa membaca situs dan media sosial REKATI, dan ikut kegiatan yang terbuka (lihat [bagian 6](#6-kegiatan)).
 
@@ -126,10 +128,9 @@ Mereka tetap bisa membaca situs dan media sosial REKATI, dan ikut kegiatan yang 
 - Kawan yang menjadi pimpinan perusahaan, staf HR, atau perekrut memberi tahu fungsi Verifikasi paling lambat 30 hari sejak mulai menjabat, dan keluar dari ruang bersama. Ini bukan sanksi.
   - Sejak hari mulai menjabat, ia berhenti ikut pembahasan di ruang bersama.
   - Aksesnya ditutup paling lambat 7 hari setelah ia memberi tahu.
-  - Isian formulirnya dihapus 30 hari setelah ia keluar [usulan].
 - Kawan yang menjadi manajer memberi tahu fungsi Verifikasi paling lambat 30 hari sejak mulai menjabat. Ia tetap Kawan, dengan tanggung jawab tambahan di atas.
 - Siapa yang tidak lagi menjadi pimpinan perusahaan, staf HR, atau perekrut bisa mendaftar sebagai Kawan.
-- Kalau posisi calon Kawan atau Kawan tidak jelas, fungsi Verifikasi menanyakannya dan memutuskan. Keputusan itu bisa diajukan keberatan.
+- Kalau posisi calon Kawan atau Kawan tidak jelas, fungsi Verifikasi menanyakannya dan memutuskan. Keberatan atas keputusan itu bisa diajukan satu kali ke Dewan Fungsionaris [usulan].
 
 ## 2. Bergabung
 
@@ -138,17 +139,16 @@ Mereka tetap bisa membaca situs dan media sosial REKATI, dan ikut kegiatan yang 
 3. Fungsi Verifikasi memeriksa isian formulir dan memberi jawaban dalam 14 hari [usulan].
 4. Calon yang lolos verifikasi menyetujui Aturan Komunitas dan Kode Etik. Setelah itu ia menjadi Kawan dan masuk ruang bersama.
 
-Verifikasi ada untuk menjaga Kawan dari orang yang bergabung hanya untuk mengumpulkan dan menyebarkan identitas Kawan (doxing). Caranya:
+Verifikasi ada untuk menjaga Kawan dari orang yang bergabung hanya untuk mengumpulkan dan menyebarkan identitas Kawan (doxing). Verifikasi memakai salah satu atau kedua cara ini, sesuai isian formulir:
 
-- **Rujukan**: calon dijamin dua Kawan yang pernah bekerja, berkomunikasi, atau bertemu langsung dengannya. Penjamin tidak disanksi atas perbuatan orang yang ia jamin, kecuali ia sendiri menyebarkan informasi [usulan].
+- **Rujukan**: kalau ada, calon menyebut satu Kawan yang pernah bekerja, berkomunikasi, atau bertemu langsung dengannya. Fungsi Verifikasi bisa bertanya kepada Kawan itu. Perujuk tidak disanksi atas perbuatan orang yang ia rujuk, kecuali ia sendiri menyebarkan informasi [usulan].
 - **Profil**: profil LinkedIn dan media sosial calon dicek kesesuaiannya dengan isian formulir. Calon tanpa profil publik boleh memberi bukti lain, misalnya email kantor atau kontrak yang disamarkan.
+
+Calon yang belum mengenal Kawan mana pun tetap bisa mendaftar. Verifikasinya memakai Profil.
 
 Kalau ditolak, calon diberi tahu alasannya dan boleh mengajukan keberatan satu kali. Keberatan itu diputus Dewan Fungsionaris, tanpa orang yang menolaknya [usulan].
 
-Isian formulir hanya dilihat PJ dan Kawan pelaksana fungsi Verifikasi. Lama penyimpanannya [usulan]:
-
-- isian Kawan disimpan selama ia menjadi Kawan, dan dihapus 30 hari setelah ia keluar;
-- isian calon yang ditolak dihapus 30 hari setelah keputusan, atau setelah keberatannya diputus.
+Isian formulir hanya dilihat PJ dan Kawan pelaksana fungsi Verifikasi. Isian dihapus setelah diverifikasi, paling lama 30 hari setelah dikirim. Apa yang dicatat tentang Kawan setelah itu, misalnya perannya, belum diatur (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 
 ## 3. Dikeluarkan
 
@@ -189,6 +189,7 @@ Dewan Fungsionaris terdiri dari tujuh Kawan. Cara kerjanya:
 - Tidak ada ketua. Koordinasi dan notulen dipegang bergilir.
 - Dewan Fungsionaris membagi penanggung jawab (PJ) tiap fungsi, dan mengisi fungsi yang kosong.
 - Fungsinya tetap. Orangnya bisa berganti dan bisa diberhentikan.
+- Satu fungsionaris boleh memegang lebih dari satu fungsi.
 - Kas adalah mekanisme bersama, bukan jabatan bendahara (lihat [bagian 8](#8-iuran-dan-kas)).
 - Hubungan dengan pihak luar, misalnya TWC, LBH, dan komunitas lain, dipegang fungsi yang tugasnya terkait.
 - Dewan Fungsionaris memeriksa laporan pelanggaran dan memutuskan sanksinya (lihat [bagian 7](#7-pelanggaran-dan-sanksi)) [usulan].
@@ -197,7 +198,7 @@ Yang masih berupa usulan [usulan]:
 
 - **Cara memilih**: Dewan Fungsionaris dipilih oleh Kawan.
 - **Periode**: 12 bulan.
-- **Rangkap**: satu fungsionaris memegang paling banyak dua fungsi.
+- **Batas rangkap**: satu fungsionaris memegang paling banyak dua fungsi.
 - **Keputusan**: diambil dengan mufakat. Kalau mufakat tidak tercapai, dengan suara terbanyak dalam rapat yang dihadiri sedikitnya lima fungsionaris.
 
 Kawan yang tidak memegang fungsi tetap Kawan dengan hak yang sama.
@@ -322,7 +323,7 @@ Pelanggaran:
 
 ### Sedang
 
-Pelanggaran sedang menimbulkan kerugian nyata pada uang, data, reputasi, atau keselamatan Kawan, atau mengulang pelanggaran ringan.
+Pelanggaran sedang menimbulkan kerugian nyata pada uang, data, reputasi, atau keselamatan Kawan. Melakukan pelanggaran ringan tiga kali dalam 12 bulan juga dihitung pelanggaran sedang [usulan].
 
 Sanksi, satu atau lebih:
 
@@ -336,7 +337,7 @@ Pelanggaran:
 
 - Berperilaku atau berkegiatan yang menimbulkan kerugian nyata bagi REKATI atau Kawan.
 - Bertindak sewenang-wenang sehingga menimbulkan kerugian nyata.
-- Menyebarkan informasi palsu tentang REKATI atau Kawan karena lalai memeriksanya, sehingga keutuhan REKATI terancam.
+- Menyebarkan informasi palsu tentang REKATI atau Kawan karena lalai memeriksanya, sehingga menimbulkan kerugian nyata.
 - Memakai uang atau aset REKATI untuk kepentingan pribadi.
 - Memakai posisi di REKATI untuk kepentingan pribadi.
 - Membocorkan informasi rahasia yang dipegang karena fungsinya.
@@ -347,6 +348,8 @@ Pelanggaran:
 
 ### Berat
 
+Pelanggaran berat melukai orang, dilakukan dengan sengaja untuk keuntungan sendiri, atau merusak kepercayaan yang membuat Kawan berani bicara.
+
 Sanksi, satu atau lebih:
 
 - mengganti kerugian, kalau REKATI dirugikan;
@@ -356,7 +359,7 @@ Sanksi, satu atau lebih:
 
 Pelanggaran:
 
-- Terbukti melanggar hak Kawan lain.
+- Melanggar hak Kawan lain yang diatur di Aturan ini atau Kode Etik, setelah diperiksa menurut bagian ini.
 - Menyalahgunakan wewenang untuk keuntungan pribadi, atau untuk memberi keuntungan yang tidak adil kepada kerabat, di dalam maupun di luar REKATI. Referral kerja yang terbuka tidak termasuk.
 - Melakukan kekerasan seksual menurut Undang-Undang Nomor 12 Tahun 2022 tentang Tindak Pidana Kekerasan Seksual (UU TPKS), di dalam maupun di luar REKATI.
 - Melakukan tindak pidana yang sudah diputus pengadilan.
@@ -374,7 +377,7 @@ Pelanggaran:
 - **Wajib** bagi Kawan yang bekerja penuh waktu, paruh waktu, atau kontrak, termasuk magang berbayar.
 - **Tidak wajib** bagi pelajar dan mahasiswa yang tidak bekerja atau magang tanpa bayaran, serta pencari kerja yang tidak bergaji.
 - **Keringanan**: Kawan yang sedang kesulitan boleh meminta keringanan.
-- **Menunggak**: Kawan yang menunggak 3 bulan diingatkan, dan hak suaranya ditunda sampai ia membayar atau mendapat keringanan [usulan].
+- **Menunggak**: Kawan yang menunggak 3 bulan diingatkan. Akibat lain belum diatur [usulan].
 - **Donasi**: kelebihan di atas Rp30.000 dicatat sebagai donasi.
 
 ### Kas
@@ -396,16 +399,18 @@ Siapa yang bisa bergabung:
 
 - Kriteria rekrutmen: siapa yang bisa menjadi Kawan, termasuk sampai kapan pimpinan perusahaan, staf HR, dan perekrut belum bisa bergabung.
 - Keputusan akhir (K5): apakah garis ini akhirnya hanya menyasar C-level, dan bagaimana staf HR yang ukuran kinerjanya berpihak pada perusahaan. Juga apakah persetujuan administratif, misalnya tanda tangan HR, mengubah sebuah keputusan menjadi bukan keputusan akhir.
-- Definisi pekerja kerah putih sebagai pembanding untuk tech-enabled worker (dicari Vitra).
-- Rumusan tambahan soal memakai informasi dari REKATI untuk merugikan pekerja, K13 (disiapkan Vitra).
+- Definisi pekerja kerah putih sebagai pembanding untuk tech-enabled worker.
+- Rumusan tambahan soal memakai informasi dari REKATI untuk merugikan pekerja (K13).
 - Kapan penghasilan dari saham atau bagi hasil dianggap "sebagian besar", misalnya lebih dari separuh penghasilan setahun.
 - Bukti apa yang cukup untuk menyatakan identitas calon Kawan palsu.
 - Apakah rumusan formulir di [rekati.org/gabung](https://rekati.org/gabung) dan halaman Tentang sudah cukup jelas, supaya manajer tidak merasa tertolak, dan pimpinan perusahaan, staf HR, dan perekrut paham bahwa mereka belum bisa bergabung untuk sementara.
+- Apa yang dicatat tentang Kawan setelah isian formulirnya dihapus, misalnya perannya, dan siapa yang boleh melihatnya.
 
 Struktur:
 
 - Cara memilih wakil Plenum.
 - Cara Plenum memutuskan.
+- Siapa yang bisa ikut Plenum Kantor, Plenum Wilayah, dan Plenum Bidang, dan kapan sebuah kelompok disebut Plenum.
 - Apakah perlu kanal khusus untuk Kawan yang tidak memimpin atau menilai orang lain.
 
 Sanksi:
