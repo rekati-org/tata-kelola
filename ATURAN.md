@@ -28,7 +28,7 @@ Istilah di bawah dipakai dengan arti yang sama di aturan ini, di formulir, dan d
 - **Ruang bersama**: grup umum di Komunitas WhatsApp REKATI, tempat semua Kawan berbicara. Aturan ini selalu menyebutnya ruang bersama.
 - **Kanal**: grup lain di Komunitas WhatsApp REKATI, misalnya grup satu kelompok minat.
 - **Plenum**: perkumpulan pekerja. Tingkatnya dijelaskan di [bagian 4](#4-struktur-rekati).
-- **Dewan Fungsionaris**: tujuh Kawan yang membagi dan menjalankan fungsi REKATI. Seorang di antaranya disebut fungsionaris.
+- **Dewan Fungsionaris**: tujuh Kawan yang membagi dan menjalankan fungsi REKATI. Masing-masing disebut fungsionaris.
 - **Fungsi**: satu bidang kerja REKATI, misalnya Verifikasi.
 - **Penanggung jawab (PJ)**: fungsionaris yang bertanggung jawab atas satu fungsi.
 - **Kawan pelaksana**: Kawan yang membantu PJ menjalankan satu fungsi.
