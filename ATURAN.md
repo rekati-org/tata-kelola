@@ -31,11 +31,12 @@ Istilah di bawah dipakai dengan arti yang sama di aturan ini, di formulir, dan d
 - **Plenum**: perkumpulan pekerja. Ada dua: Plenum Pusat dan Plenum tersebar (lihat [bagian 4](#4-struktur-rekati)).
 - **Plenum Pusat**: Perkumpulan REKATI.
 - **Plenum tersebar**: perkumpulan pekerja yang dibentuk organizer. Bentuknya bisa Plenum Kantor, Plenum Wilayah, atau Plenum Bidang.
-- **Dewan Fungsionaris**: tujuh Kawan yang membagi dan menjalankan fungsi REKATI. Masing-masing disebut fungsionaris.
+- **Dewan Fungsionaris**: Kawan yang membagi dan menjalankan fungsi REKATI. Saat ini isinya Dewan transisi: tujuh admin pertama REKATI, sebagai perwakilan fungsionaris. Masing-masing disebut fungsionaris.
 - **Fungsi**: satu bidang kerja REKATI, misalnya Verifikasi.
 - **Penanggung jawab (PJ)**: fungsionaris yang bertanggung jawab atas satu fungsi.
 - **Kawan pelaksana**: Kawan yang membantu PJ menjalankan satu fungsi.
-- **Periode**: masa tugas Dewan Fungsionaris. Lamanya belum ditentukan.
+- **Titik stabil**: keadaan saat setiap fungsi sudah berjalan dengan PJ masing-masing, dan sudah ada Plenum tersebar. Dewan transisi menjabat sampai titik ini.
+- **Periode**: masa tugas Dewan Fungsionaris. Selama masa transisi tidak ada periode. Lamanya periode setelah titik stabil belum ditentukan.
 - **Task force**: kelompok kerja untuk satu tugas tertentu.
 - **3S**: Saling Belajar, Saling Dukung, dan Saling Jaga.
 - **Kelompok minat (special interest group, SIG)**: kelompok Kawan yang belajar atau berbagi soal satu topik.
@@ -193,7 +194,16 @@ Cara memilih wakil Plenum dan cara Plenum memutuskan belum diatur (lihat [Bahan 
 
 ### Dewan Fungsionaris
 
-Dewan Fungsionaris terdiri dari tujuh Kawan. Cara kerjanya:
+Dewan Fungsionaris saat ini adalah Dewan transisi. Isinya perwakilan fungsionaris, yaitu tujuh admin pertama REKATI.
+
+Masa transisi:
+
+- Dewan transisi menjabat sampai REKATI mencapai titik stabil.
+- Titik stabil berarti dua hal sudah terpenuhi: setiap fungsi sudah berjalan dengan PJ masing-masing, dan sudah ada Plenum tersebar.
+- Setelah titik stabil, Dewan Fungsionaris dibentuk dari perwakilan grup fungsionaris dan perwakilan Plenum tersebar.
+- Cara menyatakan titik stabil tercapai dan cara memilih perwakilan itu belum diatur (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
+
+Cara kerjanya:
 
 - Tidak ada ketua. Koordinasi dan notulen dipegang bergilir.
 - Dewan Fungsionaris membagi penanggung jawab (PJ) tiap fungsi, dan mengisi fungsi yang kosong.
@@ -205,7 +215,6 @@ Dewan Fungsionaris terdiri dari tujuh Kawan. Cara kerjanya:
 
 Yang masih berupa usulan [usulan]:
 
-- **Cara memilih**: Dewan Fungsionaris dipilih oleh Kawan.
 - **Batas rangkap**: satu fungsionaris memegang paling banyak dua fungsi.
 - **Keputusan**: diambil dengan mufakat. Kalau mufakat tidak tercapai, dengan suara terbanyak dalam rapat yang dihadiri sedikitnya lima fungsionaris.
 
@@ -416,7 +425,9 @@ Struktur:
 - Cara memilih wakil Plenum.
 - Cara Plenum memutuskan.
 - Siapa yang bisa ikut Plenum tersebar, dan kapan sebuah kelompok disebut Plenum.
-- Berapa lama satu periode Dewan Fungsionaris.
+- Ukuran titik stabil, dan cara menyatakan bahwa titik stabil sudah tercapai.
+- Cara memilih perwakilan grup fungsionaris dan perwakilan Plenum tersebar untuk Dewan Fungsionaris setelah titik stabil.
+- Berapa lama satu periode Dewan Fungsionaris setelah titik stabil.
 - Apakah perlu kanal khusus untuk Kawan yang tidak memimpin atau menilai orang lain.
 
 Sanksi:
