@@ -209,7 +209,7 @@ Kantor, Wilayah, dan Bidang adalah bentuk. Tidak ada Plenum yang berada di atas 
 
 Untuk Plenum tersebar berlaku:
 
-- **Pengakuan**: Plenum tersebar diakui kalau terdiri dari sedikitnya 3 orang dan sudah berkumpul sedikitnya 2 kali.
+- **Pengakuan**: Plenum tersebar diakui kalau terdiri dari sedikitnya 3 orang dan sudah berkumpul sedikitnya 2 kali. Pemenuhan syarat itu diperiksa Dewan Fungsionaris atau fungsi Verifikasi.
 - **Yang boleh ikut**: rekan kerja yang belum menjadi Kawan boleh ikut, asal penggeraknya Kawan.
 - **Mengatur diri sendiri**: Plenum tersebar mengatur dirinya sendiri, asal tidak bertentangan dengan Aturan Komunitas dan Kode Etik.
 - **Di luar Jakarta Raya**: Kawan boleh membentuk Plenum Wilayah. Plenum itu tetap bagian dari REKATI.
@@ -277,7 +277,7 @@ Kawan yang punya masalah di tempat kerja boleh menyampaikan keluhannya lewat jal
 - lewat pesan pribadi ke admin yang ditunjuk; atau
 - lewat formulir di rekati.org.
 
-Ketiga jalur itu sudah disepakati, tetapi belum semuanya tersedia. Admin yang menerima pesan pribadi belum ditunjuk, dan formulir keluhan di rekati.org belum ada.
+Ketiga jalur itu sudah disepakati, tetapi belum semuanya tersedia. Admin yang menerima pesan pribadi akan diumumkan, dan formulir keluhan di rekati.org belum ada.
 
 Siapa yang menerima laporan, bagaimana kerahasiaannya dijaga, dan kapan laporan dibalas akan diatur di SOP pelaporan keluhan kerja. SOP itu belum ditetapkan (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 
@@ -449,16 +449,16 @@ Pelanggaran:
 
 - **Jangka**: iuran dibayar tiap bulan.
 - **Saat ini bersifat donasi**: iuran bersifat donasi sampai besarnya dan kewajibannya disepakati bersama. Ketentuan ini mengganti ketentuan "wajib" dan "tidak wajib" di aturan 11 November 2026. Untuk saat ini tidak ada Kawan yang wajib membayar iuran.
-- **Besarnya**: belum disepakati. Selama iuran bersifat donasi, Kawan memilih sendiri besarnya.
+- **Besarnya**: belum disepakati. Selama iuran bersifat donasi, Kawan memilih sendiri besarnya. Sebagai gambaran, Rp15.000 sampai Rp30.000 per bulan; angka ini hanya contoh, bukan ketentuan.
 - **Pekerja mandiri**: membayar iuran sama seperti Kawan lain.
 - **Keringanan**: Kawan yang sedang kesulitan boleh meminta keringanan.
-- **Menunggak**: Kawan yang menunggak diingatkan. Setelah 3 bulan menunggak, ia dianggap meminta keringanan.
+- **Menunggak**: berlaku setelah besar dan kewajiban iuran disepakati. Kawan yang menunggak diingatkan. Setelah 3 bulan menunggak, ia dianggap meminta keringanan.
 
 ### Kas
 
 - **Pencatatan**: setiap iuran, donasi, dan pengeluaran dicatat.
 - **Penyimpanan**: untuk sementara, kas disimpan di satu rekening bank atas nama seorang pendiri. Rekening itu khusus untuk kas REKATI dan tidak dicampur dengan uang pribadi.
-- **Pengeluaran**: pengeluaran di atas Rp250.000 disetujui dua fungsionaris.
+- **Pengeluaran**: pengeluaran sampai Rp250.000 disetujui dua PJ. Pengeluaran di atas Rp250.000 disetujui Dewan Fungsionaris.
 - **Laporan kas**: dibagikan tiap bulan di ruang bersama.
 - **Belum ditentukan**: pemindahan kas ke rekening atas nama REKATI, dan siapa yang bisa melihat mutasi (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 - **Donasi publik**: akan dibuka lewat Saweria. Donasi tanpa nama dicatat sebagai donasi anonim.
@@ -510,7 +510,7 @@ Butir bertanda `[usulan]` di atas juga menunggu keputusan.
 | Butir | Status |
 | --- | --- |
 | Siapa yang menerima laporan keluhan kerja, bagaimana kerahasiaannya dijaga, dan kapan laporan dibalas. | Didelegasikan ke SOP pelaporan keluhan kerja |
-| Siapa admin yang ditunjuk menerima keluhan kerja lewat pesan pribadi. | Belum diputuskan |
+| Siapa admin yang ditunjuk menerima keluhan kerja lewat pesan pribadi. | Diputuskan: akan diumumkan Dewan Fungsionaris |
 | Pembuatan formulir keluhan di rekati.org. | Di luar cakupan Aturan (rencana kerja situs) |
 | Cara dan batas waktu mengajukan keberatan atas sanksi. | Belum diputuskan |
 | Cara memilih 3 Kawan di luar Dewan yang ikut memeriksa laporan tentang fungsionaris. | Belum diputuskan |
