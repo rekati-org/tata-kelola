@@ -271,10 +271,10 @@ Task force dibentuk untuk satu tugas tertentu:
 Kawan yang punya masalah di tempat kerja boleh menyampaikan keluhannya lewat jalur mana pun yang paling nyaman baginya:
 
 - di ruang bersama, tanpa menyebut nama orang dan perusahaan;
-- lewat pesan pribadi ke admin yang ditunjuk; atau
+- lewat pesan pribadi ke salah satu dari tujuh admin, yang semuanya bisa menerima keluhan; atau
 - lewat formulir di rekati.org.
 
-Ketiga jalur itu sudah disepakati, tetapi belum semuanya tersedia. Admin yang menerima pesan pribadi akan diumumkan, dan formulir keluhan di rekati.org belum ada.
+Ketiga jalur itu sudah disepakati. Formulir keluhan di rekati.org belum ada.
 
 Siapa yang menerima laporan, bagaimana kerahasiaannya dijaga, dan kapan laporan dibalas akan diatur di SOP pelaporan keluhan kerja. SOP itu belum ditetapkan (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 
@@ -390,7 +390,7 @@ Pelanggaran:
 - Bertindak sewenang-wenang.
 - Sengaja menghambat kerja REKATI.
 - Mengulang pelanggaran Kode Etik setelah diingatkan.
-- Tidak melaporkan hadiah berkaitan dengan fungsi yang nilainya di bawah Rp100.000 [usulan].
+- Tidak melaporkan hadiah berkaitan dengan fungsi yang nilainya di bawah Rp100.000.
 
 ### Sedang
 
@@ -469,7 +469,6 @@ Setiap butir di bawah punya salah satu dari tiga status:
 - **Didelegasikan ke SOP**: diatur di SOP yang disebut, menurut [Kedudukan Aturan Komunitas](#kedudukan-aturan-komunitas).
 - **Di luar cakupan Aturan**: dikerjakan lewat rencana kerja, bukan diatur di sini.
 
-Butir bertanda `[usulan]` di atas juga menunggu keputusan.
 
 ### Pengesahan dan Dewan Fungsionaris
 
@@ -507,7 +506,6 @@ Butir bertanda `[usulan]` di atas juga menunggu keputusan.
 | Butir | Status |
 | --- | --- |
 | Siapa yang menerima laporan keluhan kerja, bagaimana kerahasiaannya dijaga, dan kapan laporan dibalas. | Didelegasikan ke SOP pelaporan keluhan kerja |
-| Siapa admin yang ditunjuk menerima keluhan kerja lewat pesan pribadi. | Diputuskan: akan diumumkan Dewan Fungsionaris |
 | Pembuatan formulir keluhan di rekati.org. | Di luar cakupan Aturan (rencana kerja situs) |
 | Cara dan batas waktu mengajukan keberatan atas sanksi. | Belum diputuskan |
 | Cara memilih 3 Kawan di luar Dewan yang ikut memeriksa laporan tentang fungsionaris. | Belum diputuskan |
