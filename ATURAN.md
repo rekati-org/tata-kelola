@@ -1,17 +1,24 @@
 # Aturan Komunitas REKATI
 
-Status: Versi 1.0, menunggu pengesahan. Disusun dari [rapat 9 November 2026](notulen/2026-11-09.md) dan [telaah 18 November 2026](notulen/2026-11-18.md) ([butir telaah K1 sampai K34](notulen/2026-11-18-telaah.md)). Sampai versi ini disahkan, aturan yang berlaku sejak 11 November 2026 tetap dipakai.
+Status: Versi 1.0, menunggu pengesahan. Disusun dari [rapat 9 November 2026](notulen/2026-11-09.md), [telaah 18 November 2026](notulen/2026-11-18.md) ([butir telaah K1 sampai K34](notulen/2026-11-18-telaah.md)), dan [tanya-jawab 19 November 2026](notulen/2026-11-19.md). Sampai versi ini disahkan, aturan yang berlaku sejak 11 November 2026 tetap dipakai.
 
 REKATI (Ruang Eksplorasi Kawan Teknologi Informasi) adalah perkumpulan pengorganisir pekerja teknologi. REKATI bukan serikat pekerja. REKATI melahirkan dan mendampingi organizer, dan membantu Kawan lewat informasi, pendampingan, dan rujukan ke lembaga bantuan hukum (LBH). REKATI tidak mewakili Kawan berunding dengan pemberi kerja.
 
-Aturan ini mengatur siapa yang bisa menjadi Kawan, cara bergabung dan dikeluarkan, struktur REKATI, ruang bersama, kegiatan, hal yang kami dorong, pelanggaran dan sanksi, serta iuran dan kas. Cara Kawan saling memperlakukan diatur di [Kode Etik](https://rekati.org/kode-etik). Keduanya berlaku bersama. Kalau isinya berbeda, Aturan Komunitas yang berlaku [usulan].
+Aturan ini mengatur siapa yang bisa menjadi Kawan, cara bergabung dan dikeluarkan, struktur REKATI, ruang bersama, kegiatan, hal yang kami dorong, pelanggaran dan sanksi, serta iuran dan kas. Cara Kawan saling memperlakukan diatur di [Kode Etik](https://rekati.org/kode-etik). Keduanya berlaku bersama. Kalau isinya berbeda, Aturan Komunitas yang berlaku (lihat [Kedudukan Aturan Komunitas](#kedudukan-aturan-komunitas)).
+
+## Kedudukan Aturan Komunitas
+
+- **Rujukan utama**: Aturan Komunitas adalah rujukan utama tata kelola REKATI.
+- **Dokumen lain**: Kode Etik, prosedur operasional standar (SOP), rencana kerja, dan bahan orientasi disusun berdasarkan Aturan ini. Dokumen-dokumen itu tidak boleh menciptakan kewajiban, sanksi, atau kewenangan baru yang bertentangan dengan Aturan ini.
+- **Kalau isinya berbeda**: Aturan Komunitas yang berlaku.
+- **Syarat setiap SOP**: punya penanggung jawab, nomor versi, tanggal berlaku, dan dasar kewenangan di Aturan ini.
 
 ## Versi dan cara mengubah aturan
 
 - **Versi**: ini Versi 1.0. Setiap versi bernomor dan diumumkan di ruang bersama.
 - **Siapa yang mengesahkan**: Dewan Fungsionaris bersama Kawan.
-- **Cara mengesahkan** [usulan]: rancangan diumumkan di ruang bersama. Kawan punya 14 hari untuk menanggapi. Setelah itu Dewan Fungsionaris menimbang tanggapan yang masuk, lalu mengesahkan.
-- **Cara mengubah**: perubahan diusulkan secara tertulis oleh Dewan Fungsionaris atau oleh sedikitnya 10 Kawan [usulan]. Usulan itu disahkan dengan cara yang sama, lalu terbit sebagai versi baru.
+- **Cara mengesahkan**: rancangan diumumkan di ruang bersama. Kawan punya 7 hari untuk menanggapi. Setelah itu Dewan Fungsionaris menimbang tanggapan yang masuk, lalu mengesahkan [usulan]. Apakah Kawan hanya memberi tanggapan atau juga bisa menolak rancangan belum diputuskan (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
+- **Cara mengubah**: perubahan diusulkan secara tertulis oleh Dewan Fungsionaris atau oleh sedikitnya 10 Kawan. Usulan itu disahkan dengan cara yang sama, lalu terbit sebagai versi baru.
 - **Tanda `[usulan]`**: angka atau pilihan yang diusulkan telaah dan belum diputuskan. Tanda itu dihapus begitu butirnya diputuskan.
 
 Hal yang belum diatur dicatat di [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya).
@@ -36,7 +43,7 @@ Istilah di bawah dipakai dengan arti yang sama di aturan ini, di formulir, dan d
 - **Penanggung jawab (PJ)**: fungsionaris yang bertanggung jawab atas satu fungsi.
 - **Kawan pelaksana**: Kawan yang membantu PJ menjalankan satu fungsi.
 - **Grup fungsionaris**: PJ dan Kawan pelaksana yang menjalankan satu fungsi.
-- **Titik stabil**: keadaan saat setiap fungsi sudah berjalan dengan PJ masing-masing, dan sudah ada Plenum tersebar. Dewan transisi menjabat sampai titik ini.
+- **Titik stabil**: keadaan saat setiap fungsi sudah berjalan dengan PJ masing-masing, dan sudah ada Plenum tersebar. Dewan transisi menjabat sampai titik ini. Tercapai atau belumnya diputuskan bersama di pertemuan Kawan.
 - **Periode**: masa tugas Dewan Fungsionaris. Selama masa transisi tidak ada periode. Lamanya periode setelah titik stabil belum ditentukan.
 - **Task force**: kelompok kerja untuk satu tugas tertentu.
 - **3S**: Saling Belajar, Saling Dukung, dan Saling Jaga.
@@ -153,7 +160,16 @@ Calon yang belum mengenal Kawan mana pun tetap bisa mendaftar. Verifikasinya mem
 
 Kalau ditolak, calon diberi tahu alasannya dan boleh mengajukan keberatan satu kali. Keberatan itu diputus Dewan Fungsionaris, tanpa orang yang menolaknya [usulan].
 
-Isian formulir hanya dilihat PJ dan Kawan pelaksana fungsi Verifikasi. Isian dihapus setelah diverifikasi, paling lama 30 hari setelah dikirim. Apa yang dicatat tentang Kawan setelah itu, misalnya perannya, belum diatur (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
+Isian formulir hanya dilihat PJ dan Kawan pelaksana fungsi Verifikasi. Isian dihapus setelah diverifikasi, paling lama 30 hari setelah dikirim.
+
+Setelah isian dihapus, yang tetap disimpan tentang seorang Kawan hanya empat hal:
+
+- nama panggilan;
+- nomor WhatsApp;
+- tanggal menyetujui Aturan Komunitas; dan
+- posisi kerja saat ini, bukan nama tempat kerja.
+
+Siapa yang boleh melihat catatan itu dan sampai kapan disimpan belum diatur (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 
 ## 3. Dikeluarkan
 
@@ -191,7 +207,14 @@ Plenum tersebar punya tiga bentuk:
 
 Kantor, Wilayah, dan Bidang adalah bentuk. Tidak ada Plenum yang berada di atas atau di bawah Plenum lain. Fungsi Lingkar tempat kerja menghubungkan Plenum tersebar.
 
-Cara memilih wakil Plenum dan cara Plenum memutuskan belum diatur (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
+Untuk Plenum tersebar berlaku:
+
+- **Pengakuan**: Plenum tersebar diakui kalau terdiri dari sedikitnya 3 orang dan sudah berkumpul sedikitnya 2 kali.
+- **Yang boleh ikut**: rekan kerja yang belum menjadi Kawan boleh ikut, asal penggeraknya Kawan.
+- **Mengatur diri sendiri**: Plenum tersebar mengatur dirinya sendiri, asal tidak bertentangan dengan Aturan Komunitas dan Kode Etik.
+- **Di luar Jakarta Raya**: Kawan boleh membentuk Plenum Wilayah. Plenum itu tetap bagian dari REKATI.
+
+Cara memilih wakil Plenum dan cara Plenum Pusat memutuskan belum diatur (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 
 ### Dewan Fungsionaris
 
@@ -202,7 +225,8 @@ Masa transisi:
 - Dewan transisi menjabat sampai REKATI mencapai titik stabil.
 - Titik stabil berarti dua hal sudah terpenuhi: setiap fungsi sudah berjalan dengan PJ masing-masing, dan sudah ada Plenum tersebar.
 - Setelah titik stabil, Dewan Fungsionaris dibentuk dari perwakilan grup fungsionaris dan perwakilan Plenum tersebar.
-- Cara menyatakan titik stabil tercapai dan cara memilih perwakilan itu belum diatur (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
+- Tercapai atau belumnya titik stabil diputuskan bersama di pertemuan Kawan.
+- Cara memilih perwakilan itu belum diatur (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 
 Cara kerjanya:
 
@@ -212,12 +236,16 @@ Cara kerjanya:
 - Satu fungsionaris boleh memegang lebih dari satu fungsi.
 - Kas adalah mekanisme bersama, bukan jabatan bendahara (lihat [bagian 8](#8-iuran-dan-kas)).
 - Hubungan dengan pihak luar, misalnya TWC, LBH, dan komunitas lain, dipegang fungsi yang tugasnya terkait.
+- Keputusan diambil dengan mufakat. Kalau buntu, dengan suara terbanyak dalam rapat yang dihadiri sedikitnya 5 dari 7 fungsionaris.
+- Fungsionaris yang tidak menjalankan fungsinya bisa diganti lewat dua jalur: laporan pelanggaran (lihat [bagian 7](#7-pelanggaran-dan-sanksi)), atau usul sedikitnya 10 Kawan yang diputuskan di pertemuan Kawan.
+- Hadiah yang berkaitan dengan fungsi boleh diterima kalau nilainya di bawah Rp100.000 dan dilaporkan ke Dewan Fungsionaris.
 - Dewan Fungsionaris memeriksa laporan pelanggaran dan memutuskan sanksinya (lihat [bagian 7](#7-pelanggaran-dan-sanksi)) [usulan].
 
-Yang masih berupa usulan [usulan]:
+Yang masih berupa usulan:
 
-- **Batas rangkap**: satu fungsionaris memegang paling banyak dua fungsi.
-- **Keputusan**: diambil dengan mufakat. Kalau mufakat tidak tercapai, dengan suara terbanyak dalam rapat yang dihadiri sedikitnya lima fungsionaris.
+- **Batas rangkap**: satu fungsionaris memegang paling banyak dua fungsi [usulan].
+
+Bentuk pertemuan Kawan dan cara pertemuan itu memutuskan belum diatur (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 
 Kawan yang tidak memegang fungsi tetap Kawan dengan hak yang sama.
 
@@ -240,6 +268,18 @@ Task force dibentuk untuk satu tugas tertentu:
 - **Task force ketenagakerjaan**: bagian dari Saling Jaga. Membantu Kawan yang punya masalah di tempat kerja.
 - **Task force perumus aturan**: di luar 3S. Merumuskan Aturan Komunitas dan perubahannya.
 - **Task force legalitas dan administrasi**: di luar 3S. Mengurus status resmi REKATI sebagai perkumpulan berbadan hukum. Ini fokus utama REKATI saat ini.
+
+### Keluhan kerja
+
+Kawan yang punya masalah di tempat kerja boleh menyampaikan keluhannya lewat jalur mana pun yang paling nyaman baginya:
+
+- di ruang bersama, tanpa menyebut nama orang dan perusahaan;
+- lewat pesan pribadi ke admin yang ditunjuk; atau
+- lewat formulir di rekati.org.
+
+Ketiga jalur itu sudah disepakati, tetapi belum semuanya tersedia. Admin yang menerima pesan pribadi belum ditunjuk, dan formulir keluhan di rekati.org belum ada.
+
+Siapa yang menerima laporan, bagaimana kerahasiaannya dijaga, dan kapan laporan dibalas akan diatur di SOP pelaporan keluhan kerja. SOP itu belum ditetapkan (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 
 ## 5. Ruang bersama
 
@@ -283,6 +323,15 @@ Kegiatan terbuka boleh diikuti siapa saja. Pengumumannya selalu menyebut bahwa k
 - daftar peserta tidak diterbitkan; dan
 - isi kegiatan tidak disebarkan dengan menyebut nama.
 
+### Tempat atau konsumsi dari perusahaan
+
+Tempat atau konsumsi dari perusahaan boleh diterima, dengan dua syarat:
+
+- perusahaan tidak ikut menentukan topik atau pembicara; dan
+- perusahaan tidak memasang logo.
+
+Sponsor, dana, dan donasi atas nama perusahaan tetap ditolak (lihat [bagian 8](#8-iuran-dan-kas)).
+
 ### Media sosial dan Kabar
 
 - **Post mingguan**: isu atau hal baru di dunia teknologi, dilihat dari sudut pandang pekerja. Kawan boleh menyumbang tulisan.
@@ -320,6 +369,8 @@ Hubungannya dengan Kode Etik:
 - Fungsionaris yang punya hubungan pribadi atau hubungan kerja dengan orang yang dilaporkan tidak ikut memeriksa.
 - Kawan yang dilaporkan diberi tahu secara tertulis. Sebelum dikeluarkan, ia punya 7 hari untuk menjawab [usulan].
 - Laporan kekerasan seksual ditangani secara tertutup, dan identitas pelapor dirahasiakan.
+- Laporan tentang fungsionaris diperiksa Dewan Fungsionaris tanpa orang yang terlibat, bersama 3 Kawan di luar Dewan. Cara memilih ketiga Kawan itu belum ditentukan.
+- Keberatan atas sanksi diperiksa Dewan Fungsionaris, tanpa orang yang memutuskan sanksinya. Cara dan batas waktu mengajukannya belum ditentukan.
 
 Yang tidak pernah dihitung pelanggaran: kritik, perbedaan pendapat, dan usul perubahan lewat jalur yang tersedia. Begitu juga pendapat dan kegiatan pribadi Kawan yang tidak mengatasnamakan REKATI.
 
@@ -382,7 +433,7 @@ Pelanggaran:
 - Melakukan kekerasan seksual menurut Undang-Undang Nomor 12 Tahun 2022 tentang Tindak Pidana Kekerasan Seksual (UU TPKS), di dalam maupun di luar REKATI.
 - Melakukan tindak pidana yang sudah diputus pengadilan.
 - Sengaja menyebarkan informasi palsu atau menghasut untuk memecah REKATI.
-- Meminta atau menerima hadiah yang berkaitan dengan fungsinya. Batas nilai hadiah yang boleh diterima belum ditentukan.
+- Meminta hadiah yang berkaitan dengan fungsinya, atau menerimanya di luar yang dibolehkan. Hadiah boleh diterima kalau nilainya di bawah Rp100.000 dan dilaporkan ke Dewan Fungsionaris.
 - Memakai informasi dari REKATI untuk keputusan yang merugikan pekerja, misalnya untuk membalas, menghambat, atau memberhentikan Kawan atau orang di timnya (lihat [bagian 1](#kawan-yang-memimpin-atau-menilai-orang-lain)).
 - Memakai nama atau logo REKATI untuk mengampanyekan atau mendukung kelompok politik, partai politik, atau calon dalam pemilihan.
 - Melakukan pelanggaran lain yang sama beratnya terhadap Aturan Komunitas atau Kode Etik. Pelanggaran semacam ini ditetapkan Dewan Fungsionaris dengan alasan tertulis, dan hanya berlaku untuk kejadian setelah penetapan [usulan].
@@ -391,58 +442,81 @@ Pelanggaran:
 
 ### Iuran
 
-- **Besarnya**: Kawan memilih sendiri, dari Rp15.000 sampai Rp30.000.
-- **Wajib** bagi Kawan yang bekerja penuh waktu, paruh waktu, atau kontrak, termasuk magang berbayar.
-- **Tidak wajib** bagi pelajar dan mahasiswa yang tidak bekerja atau magang tanpa bayaran, serta pencari kerja yang tidak bergaji.
+- **Jangka**: iuran dibayar tiap bulan.
+- **Saat ini bersifat donasi**: iuran bersifat donasi sampai besarnya dan kewajibannya disepakati bersama. Ketentuan ini mengganti ketentuan "wajib" dan "tidak wajib" di aturan 11 November 2026. Untuk saat ini tidak ada Kawan yang wajib membayar iuran.
+- **Besarnya**: belum disepakati. Selama iuran bersifat donasi, Kawan memilih sendiri besarnya.
+- **Pekerja mandiri**: membayar iuran sama seperti Kawan lain.
 - **Keringanan**: Kawan yang sedang kesulitan boleh meminta keringanan.
-- **Menunggak**: belum ditentukan.
-- **Donasi**: kelebihan di atas Rp30.000 dicatat sebagai donasi.
+- **Menunggak**: Kawan yang menunggak diingatkan. Setelah 3 bulan menunggak, ia dianggap meminta keringanan.
 
 ### Kas
 
 - **Pencatatan**: setiap iuran, donasi, dan pengeluaran dicatat.
 - **Penyimpanan**: untuk sementara, kas disimpan di satu rekening bank atas nama seorang pendiri. Rekening itu khusus untuk kas REKATI dan tidak dicampur dengan uang pribadi.
-- **Belum ditentukan**: pemindahan kas ke rekening atas nama REKATI, siapa yang bisa melihat mutasi, batas dan persetujuan pengeluaran, dan laporan kas (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
+- **Pengeluaran**: pengeluaran di atas Rp250.000 disetujui dua fungsionaris.
+- **Laporan kas**: dibagikan tiap bulan di ruang bersama.
+- **Belum ditentukan**: pemindahan kas ke rekening atas nama REKATI, dan siapa yang bisa melihat mutasi (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 - **Donasi publik**: akan dibuka lewat Saweria. Donasi tanpa nama dicatat sebagai donasi anonim.
-- **Yang ditolak**: sponsor, dana, atau donasi atas nama perusahaan, pemberi kerja, atau partai politik.
+- **Yang ditolak**: sponsor, dana, atau donasi atas nama perusahaan, pemberi kerja, atau partai politik. Tempat atau konsumsi dari perusahaan diatur tersendiri (lihat [bagian 6](#tempat-atau-konsumsi-dari-perusahaan)).
 
 ## Bahan bahasan berikutnya
 
-Hal-hal di bawah belum diatur dan menjadi bahan rapat berikutnya. Begitu diputuskan, keputusannya masuk ke bagian yang sesuai di atas. Butir bertanda `[usulan]` di atas juga menunggu keputusan.
+Setiap butir di bawah punya salah satu dari tiga status:
 
-Siapa yang bisa bergabung:
+- **Belum diputuskan**: menjadi bahan rapat berikutnya. Begitu diputuskan, keputusannya masuk ke bagian yang sesuai di atas, dan butirnya dihapus dari daftar ini.
+- **Didelegasikan ke SOP**: diatur di SOP yang disebut, menurut [Kedudukan Aturan Komunitas](#kedudukan-aturan-komunitas).
+- **Di luar cakupan Aturan**: dikerjakan lewat rencana kerja, bukan diatur di sini.
 
-- Kriteria rekrutmen: siapa yang bisa menjadi Kawan, termasuk sampai kapan pimpinan perusahaan, staf HR, dan perekrut belum bisa bergabung.
-- Keputusan akhir (K5): apakah garis ini akhirnya hanya menyasar C-level, dan bagaimana staf HR yang ukuran kinerjanya berpihak pada perusahaan. Juga apakah persetujuan administratif, misalnya tanda tangan HR, mengubah sebuah keputusan menjadi bukan keputusan akhir.
-- Definisi pekerja kerah putih sebagai pembanding untuk tech-enabled worker.
-- Rumusan tambahan soal memakai informasi dari REKATI untuk merugikan pekerja (K13).
-- Kapan penghasilan dari saham atau bagi hasil dianggap "sebagian besar", misalnya lebih dari separuh penghasilan setahun.
-- Bukti apa yang cukup untuk menyatakan identitas calon Kawan palsu.
-- Apakah rumusan formulir di [rekati.org/gabung](https://rekati.org/gabung) dan halaman Tentang sudah cukup jelas, supaya manajer tidak merasa tertolak, dan pimpinan perusahaan, staf HR, dan perekrut paham bahwa mereka belum bisa bergabung untuk sementara.
-- Apa yang dicatat tentang Kawan setelah isian formulirnya dihapus, misalnya perannya, dan siapa yang boleh melihatnya.
+Butir bertanda `[usulan]` di atas juga menunggu keputusan.
 
-Struktur:
+### Pengesahan dan Dewan Fungsionaris
 
-- Cara memilih wakil Plenum.
-- Cara Plenum memutuskan.
-- Siapa yang bisa ikut Plenum tersebar, dan kapan sebuah kelompok disebut Plenum.
-- Ukuran titik stabil, dan cara menyatakan bahwa titik stabil sudah tercapai.
-- Cara memilih perwakilan grup fungsionaris dan perwakilan Plenum tersebar untuk Dewan Fungsionaris setelah titik stabil.
-- Berapa lama satu periode Dewan Fungsionaris setelah titik stabil.
-- Apakah perlu kanal khusus untuk Kawan yang tidak memimpin atau menilai orang lain.
+| Butir | Status |
+| --- | --- |
+| Dalam pengesahan, apakah Kawan hanya memberi tanggapan, atau juga bisa menolak rancangan. | Belum diputuskan |
+| Bentuk pertemuan Kawan dan cara pertemuan itu memutuskan. Pertemuan Kawan memutuskan titik stabil dan usul mengganti fungsionaris. | Belum diputuskan |
+| Ukuran titik stabil. | Belum diputuskan |
+| Cara memilih perwakilan grup fungsionaris dan perwakilan Plenum tersebar untuk Dewan Fungsionaris setelah titik stabil. | Belum diputuskan |
+| Berapa lama satu periode Dewan Fungsionaris setelah titik stabil. | Belum diputuskan |
 
-Sanksi:
+### Siapa yang bisa bergabung
 
-- Bagaimana Kawan mengajukan keberatan atas sanksi.
-- Batas nilai hadiah yang boleh diterima fungsionaris, dan cara melaporkannya.
+| Butir | Status |
+| --- | --- |
+| Kriteria rekrutmen: siapa yang bisa menjadi Kawan, termasuk sampai kapan pimpinan perusahaan, staf HR, dan perekrut belum bisa bergabung. | Belum diputuskan |
+| Keputusan akhir (K5): apakah garis ini akhirnya hanya menyasar C-level, dan bagaimana staf HR yang ukuran kinerjanya berpihak pada perusahaan. Juga apakah persetujuan administratif, misalnya tanda tangan HR, mengubah sebuah keputusan menjadi bukan keputusan akhir. | Belum diputuskan |
+| Definisi pekerja kerah putih sebagai pembanding untuk tech-enabled worker. | Belum diputuskan |
+| Rumusan tambahan soal memakai informasi dari REKATI untuk merugikan pekerja (K13). | Belum diputuskan |
+| Kapan penghasilan dari saham atau bagi hasil dianggap "sebagian besar", misalnya lebih dari separuh penghasilan setahun. | Belum diputuskan |
+| Siapa yang boleh melihat catatan tentang Kawan yang disimpan setelah isian formulirnya dihapus, dan sampai kapan catatan itu disimpan. | Belum diputuskan |
+| Bukti apa yang cukup untuk menyatakan identitas calon Kawan palsu. | Didelegasikan ke SOP verifikasi |
+| Apakah rumusan formulir di [rekati.org/gabung](https://rekati.org/gabung) dan halaman Tentang sudah cukup jelas, supaya manajer tidak merasa tertolak, dan pimpinan perusahaan, staf HR, dan perekrut paham bahwa mereka belum bisa bergabung untuk sementara. | Di luar cakupan Aturan (rencana kerja situs dan formulir) |
 
-Iuran dan kas:
+### Plenum dan ruang bersama
 
-- Kas dipakai untuk apa saja, dan manfaat apa yang adil bagi pembayar iuran selama REKATI belum bekerja sama dengan LBH.
-- Apakah pekerja mandiri dan pengelola usaha setara membayar iuran, dan berapa.
-- Iuran dibayar per bulan atau dengan jangka lain.
-- Apa yang terjadi kalau Kawan menunggak iuran.
-- Kapan kas dipindahkan ke rekening atas nama REKATI.
-- Siapa yang bisa melihat mutasi rekening kas.
-- Batas pengeluaran dan siapa yang menyetujuinya.
-- Seberapa sering laporan kas dibagikan ke Kawan.
+| Butir | Status |
+| --- | --- |
+| Cara memilih wakil Plenum. | Belum diputuskan |
+| Cara Plenum Pusat memutuskan. | Belum diputuskan |
+| Apakah perlu kanal khusus untuk Kawan yang tidak memimpin atau menilai orang lain. | Belum diputuskan |
+
+### Keluhan kerja dan sanksi
+
+| Butir | Status |
+| --- | --- |
+| Siapa yang menerima laporan keluhan kerja, bagaimana kerahasiaannya dijaga, dan kapan laporan dibalas. | Didelegasikan ke SOP pelaporan keluhan kerja |
+| Siapa admin yang ditunjuk menerima keluhan kerja lewat pesan pribadi. | Belum diputuskan |
+| Pembuatan formulir keluhan di rekati.org. | Di luar cakupan Aturan (rencana kerja situs) |
+| Cara dan batas waktu mengajukan keberatan atas sanksi. | Belum diputuskan |
+| Cara memilih 3 Kawan di luar Dewan yang ikut memeriksa laporan tentang fungsionaris. | Belum diputuskan |
+
+### Iuran dan kas
+
+| Butir | Status |
+| --- | --- |
+| Besar iuran, dan siapa yang wajib membayarnya. | Belum diputuskan |
+| Aturan yang menimbang kontribusi dan iuran, sehingga Kawan yang kontribusinya sedikit bisa menggantinya dengan iuran lebih besar. | Belum diputuskan |
+| Apakah pengelola usaha setara membayar iuran. | Belum diputuskan |
+| Kas dipakai untuk apa saja, dan manfaat apa yang adil bagi pembayar iuran selama REKATI belum bekerja sama dengan LBH. | Belum diputuskan |
+| Kapan kas dipindahkan ke rekening atas nama REKATI. | Belum diputuskan |
+| Siapa yang bisa melihat mutasi rekening kas. | Belum diputuskan |
