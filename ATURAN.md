@@ -17,7 +17,7 @@ Aturan ini mengatur siapa yang bisa menjadi Kawan, cara bergabung dan dikeluarka
 
 - **Versi**: ini Versi 1.0. Setiap versi bernomor dan diumumkan di ruang bersama.
 - **Siapa yang mengesahkan**: Dewan Fungsionaris bersama Kawan.
-- **Cara mengesahkan**: rancangan diumumkan di ruang bersama. Kawan punya 7 hari untuk menanggapi. Setelah itu Dewan Fungsionaris menimbang tanggapan yang masuk, lalu mengesahkan [usulan]. Apakah Kawan hanya memberi tanggapan atau juga bisa menolak rancangan belum diputuskan (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
+- **Cara mengesahkan**: rancangan diumumkan di ruang bersama. Kawan punya 7 hari untuk menanggapi. Setelah itu Dewan Fungsionaris menimbang tanggapan yang masuk, lalu mengesahkan. Apakah Kawan hanya memberi tanggapan atau juga bisa menolak rancangan belum diputuskan (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 - **Cara mengubah**: perubahan diusulkan secara tertulis oleh Dewan Fungsionaris atau oleh sedikitnya 10 Kawan. Usulan itu disahkan dengan cara yang sama, lalu terbit sebagai versi baru.
 - **Tanda `[usulan]`**: angka atau pilihan yang diusulkan telaah dan belum diputuskan. Tanda itu dihapus begitu butirnya diputuskan.
 
@@ -60,10 +60,10 @@ Istilah di bawah dipakai dengan arti yang sama di aturan ini, di formulir, dan d
 - **Pekerja**: orang yang penghasilan utamanya dari upah, honor, atau tarif atas pekerjaannya, bukan dari memiliki atau menjalankan perusahaan yang mempekerjakan orang lain.
 - **Keputusan kepegawaian**: keputusan akhir atas perekrutan, pemberhentian, atau gaji, tunjangan, dan pesangon pekerja lain.
 - **Keputusan akhir**: keputusan yang berlaku tanpa perlu disetujui orang lain. Memberi masukan, mewawancarai, menilai kinerja, atau mengusulkan tidak termasuk.
-- **Pekerja lain**: orang yang dibayar untuk bekerja pada pemberi kerja yang sama dengan seseorang, atau pada usaha milik orang itu. Statusnya bisa apa saja: tetap, kontrak, atau magang berbayar. Pekerja outsourcing, pekerja vendor, dan freelancer dihitung kalau bekerja di bawah arahan sehari-hari orang itu [usulan].
+- **Pekerja lain**: orang yang dibayar untuk bekerja pada pemberi kerja yang sama dengan seseorang, atau pada usaha milik orang itu. Statusnya bisa apa saja: tetap, kontrak, atau magang berbayar. Pekerja outsourcing, pekerja vendor, dan freelancer dihitung kalau bekerja di bawah arahan sehari-hari orang itu.
 - **Pimpinan perusahaan**: orang yang menetapkan kebijakan kepegawaian perusahaan, bukan hanya menjalankannya. Termasuk pemilik dan pendiri yang mempekerjakan orang lain, direksi, komisaris, dan jajaran C-level (direktur utama dan direktur setingkatnya). Termasuk juga orang lain yang memutuskan anggaran gaji, pemberhentian massal, atau struktur organisasi untuk seluruh perusahaan.
 - **Manajer**: pekerja yang memegang keputusan kepegawaian atas timnya sendiri. Ia masih bekerja di bawah atasan yang bisa memberhentikannya atau menentukan gajinya, dan tidak ikut menetapkan kebijakan kepegawaian perusahaan.
-- **Staf HR dan perekrut**: orang yang lebih dari separuh waktu kerjanya dipakai untuk perekrutan, pemberhentian, penggajian, atau hubungan kepegawaian atas nama pemberi kerja. Contohnya staf human resources (HR), people operations, talent acquisition, dan perekrut, termasuk perekrut dari agensi. Staf penggajian dan BPJS termasuk [usulan]. Staf pelatihan (learning and development) dan employer branding (promosi perusahaan sebagai tempat kerja) tidak termasuk [usulan]. Engineer atau manajer yang ikut mewawancarai juga tidak termasuk.
+- **Staf HR dan perekrut**: orang yang lebih dari separuh waktu kerjanya dipakai untuk perekrutan, pemberhentian, penggajian, atau hubungan kepegawaian atas nama pemberi kerja. Contohnya staf human resources (HR), people operations, talent acquisition, dan perekrut, termasuk perekrut dari agensi. Staf penggajian dan BPJS termasuk. Staf pelatihan (learning and development) dan employer branding (promosi perusahaan sebagai tempat kerja) tidak termasuk. Engineer atau manajer yang ikut mewawancarai juga tidak termasuk.
 
 Yang menentukan adalah posisi dan fungsinya, bukan nama jabatannya.
 
@@ -88,7 +88,7 @@ Siapa pun yang bukan pimpinan perusahaan, staf HR, atau perekrut, dan termasuk s
 
 - **Tech worker**: orang yang membangun, menjalankan, atau menjual produk teknologi, di perusahaan teknologi maupun di industri lain, apa pun peran dan senioritasnya. Contohnya engineering, desain, product dan project management, tech sales, dan support.
 - **Tech-enabled worker**: pekerja yang pekerjaan utamanya menjaga atau mendukung layanan digital dari balik sistem, misalnya agen support, moderator konten, dan pelabel data. Pengemudi dan kurir platform tidak termasuk.
-- **Pekerja mandiri**: freelancer, kontraktor perorangan, atau pemilik usaha perorangan di bidang teknologi yang tidak mempekerjakan orang lain secara tetap. Mensubkontrakkan proyek tertentu tidak menghilangkan status ini, selama ia tidak menetapkan gaji atau jam kerja orang lain [usulan].
+- **Pekerja mandiri**: freelancer, kontraktor perorangan, atau pemilik usaha perorangan di bidang teknologi yang tidak mempekerjakan orang lain secara tetap. Mensubkontrakkan proyek tertentu tidak menghilangkan status ini, selama ia tidak menetapkan gaji atau jam kerja orang lain.
 - **Pengelola usaha setara**: pendiri usaha kecil, misalnya software house (usaha jasa pembuat perangkat lunak) atau studio. Syaratnya: semua pendirinya ikut bekerja, tidak ada yang bisa memberhentikan pendiri lain, dan usaha itu tidak mempekerjakan pekerja lain.
 - **Pelajar dan pencari kerja**: orang yang sedang belajar atau mencari kerja di bidang-bidang di atas, termasuk yang baru kena pemberhentian.
 
@@ -142,23 +142,23 @@ Mereka tetap bisa membaca situs dan media sosial REKATI, dan ikut kegiatan yang 
   - Aksesnya ditutup paling lambat 7 hari setelah ia memberi tahu.
 - Kawan yang menjadi manajer memberi tahu fungsi Verifikasi paling lambat 30 hari sejak mulai menjabat. Ia tetap Kawan, dengan tanggung jawab tambahan di atas.
 - Siapa yang tidak lagi menjadi pimpinan perusahaan, staf HR, atau perekrut bisa mendaftar sebagai Kawan.
-- Kalau posisi calon Kawan atau Kawan tidak jelas, fungsi Verifikasi menanyakannya dan memutuskan. Keberatan atas keputusan itu bisa diajukan satu kali ke Dewan Fungsionaris [usulan].
+- Kalau posisi calon Kawan atau Kawan tidak jelas, fungsi Verifikasi menanyakannya dan memutuskan. Keberatan atas keputusan itu bisa diajukan satu kali ke Dewan Fungsionaris.
 
 ## 2. Bergabung
 
 1. Isi formulir di [rekati.org](https://rekati.org). Sejak itu pendaftar disebut calon Kawan.
 2. Masuk ke Komunitas WhatsApp REKATI. Calon Kawan belum masuk ruang bersama.
-3. Fungsi Verifikasi memeriksa isian formulir dan memberi jawaban dalam 14 hari [usulan].
+3. Fungsi Verifikasi memeriksa isian formulir dan memberi jawaban dalam 14 hari.
 4. Calon yang lolos verifikasi menyetujui Aturan Komunitas dan Kode Etik. Setelah itu ia menjadi Kawan dan masuk ruang bersama.
 
 Verifikasi ada untuk menjaga Kawan dari orang yang bergabung hanya untuk mengumpulkan dan menyebarkan identitas Kawan (doxing). Verifikasi memakai salah satu atau kedua cara ini, sesuai isian formulir:
 
-- **Rujukan**: kalau ada, calon menyebut satu Kawan yang pernah bekerja, berkomunikasi, atau bertemu langsung dengannya. Fungsi Verifikasi bisa bertanya kepada Kawan itu. Perujuk tidak disanksi atas perbuatan orang yang ia rujuk, kecuali ia sendiri menyebarkan informasi [usulan].
+- **Rujukan**: kalau ada, calon menyebut satu Kawan yang pernah bekerja, berkomunikasi, atau bertemu langsung dengannya. Fungsi Verifikasi bisa bertanya kepada Kawan itu. Perujuk tidak disanksi atas perbuatan orang yang ia rujuk, kecuali ia sendiri menyebarkan informasi.
 - **Profil**: profil LinkedIn dan media sosial calon dicek kesesuaiannya dengan isian formulir. Calon tanpa profil publik boleh memberi bukti lain, misalnya email kantor atau kontrak yang disamarkan.
 
 Calon yang belum mengenal Kawan mana pun tetap bisa mendaftar. Verifikasinya memakai Profil.
 
-Kalau ditolak, calon diberi tahu alasannya dan boleh mengajukan keberatan satu kali. Keberatan itu diputus Dewan Fungsionaris, tanpa orang yang menolaknya [usulan].
+Kalau ditolak, calon diberi tahu alasannya dan boleh mengajukan keberatan satu kali. Keberatan itu diputus Dewan Fungsionaris, tanpa orang yang menolaknya.
 
 Isian formulir hanya dilihat PJ dan Kawan pelaksana fungsi Verifikasi. Isian dihapus setelah diverifikasi, paling lama 30 hari setelah dikirim.
 
@@ -182,7 +182,7 @@ Perbuatan di luar REKATI hanya dihitung kalau berupa:
 - menyalahgunakan wewenang untuk keuntungan pribadi atau kerabat; atau
 - memakai informasi dari REKATI untuk merugikan pekerja.
 
-Sebelum dikeluarkan, Kawan diberi tahu secara tertulis dan punya 7 hari untuk menjawab [usulan].
+Sebelum dikeluarkan, Kawan diberi tahu secara tertulis dan punya 7 hari untuk menjawab.
 
 ## 4. Struktur REKATI
 
@@ -239,11 +239,11 @@ Cara kerjanya:
 - Keputusan diambil dengan mufakat. Kalau buntu, dengan suara terbanyak dalam rapat yang dihadiri sedikitnya 5 dari 7 fungsionaris.
 - Fungsionaris yang tidak menjalankan fungsinya bisa diganti lewat dua jalur: laporan pelanggaran (lihat [bagian 7](#7-pelanggaran-dan-sanksi)), atau usul sedikitnya 10 Kawan yang diputuskan di pertemuan Kawan.
 - Hadiah yang berkaitan dengan fungsi boleh diterima kalau nilainya di bawah Rp100.000 dan dilaporkan ke Dewan Fungsionaris.
-- Dewan Fungsionaris memeriksa laporan pelanggaran dan memutuskan sanksinya (lihat [bagian 7](#7-pelanggaran-dan-sanksi)) [usulan].
+- Dewan Fungsionaris memeriksa laporan pelanggaran dan memutuskan sanksinya (lihat [bagian 7](#7-pelanggaran-dan-sanksi)).
 
 Yang masih berupa usulan:
 
-- **Batas rangkap**: satu fungsionaris memegang paling banyak dua fungsi [usulan].
+- **Batas rangkap**: satu fungsionaris memegang paling banyak dua fungsi.
 
 Bentuk pertemuan Kawan dan cara pertemuan itu memutuskan belum diatur (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 
@@ -291,7 +291,7 @@ Ruang bersama adalah tempat semua Kawan berbicara.
 
 - **Topik**: urusan ekonomi dan kerja, misalnya pekerjaan, gaji, kontrak, karier, dan kondisi industri teknologi. Topik lain dibicarakan di kanal kelompok minat atau percakapan pribadi.
 - **Kerahasiaan**: isi diskusi tidak disebarkan dengan menunjukkan siapa orangnya atau perusahaan mana, tanpa persetujuan orang itu.
-- **Nama samaran**: Kawan boleh memakai nama samaran di ruang bersama [usulan].
+- **Nama samaran**: Kawan boleh memakai nama samaran di ruang bersama.
 - **Moderasi**: dijalankan fungsi Perluasan, mengikuti [Kode Etik](https://rekati.org/kode-etik) dan aturan ini.
 
 Yang boleh dilakukan moderator:
@@ -304,7 +304,7 @@ Yang boleh dilakukan moderator:
 
 Kawan boleh membentuk kelompok minat (SIG) untuk satu topik, misalnya SIG Cloud Native. Aturannya:
 
-- Kelompok minat hanya untuk Kawan, kecuali Dewan Fungsionaris menyetujui lain [usulan].
+- Kelompok minat hanya untuk Kawan, kecuali Dewan Fungsionaris menyetujui lain.
 - Setiap kelompok minat punya aturan dasar sendiri dan satu PJ kelompok. PJ kelompok adalah Kawan, dan ia menegakkan aturan dasar itu.
 - Aturan dasar dan PJ kelompok didaftarkan ke PJ fungsi Kelompok minat.
 - Aturan dasar tidak boleh bertentangan dengan Kode Etik dan aturan ini.
@@ -312,7 +312,7 @@ Kawan boleh membentuk kelompok minat (SIG) untuk satu topik, misalnya SIG Cloud 
 
 ## 6. Kegiatan
 
-| Kegiatan | Jadwal | Isi | Siapa yang boleh ikut [usulan] |
+| Kegiatan | Jadwal | Isi | Siapa yang boleh ikut |
 | --- | --- | --- | --- |
 | Kumpul online | Dua minggu sekali | Kabar teknologi pekan ini (This Week in Tech), berbagi dari Kawan, dan kabar perkembangan REKATI. Mudah diikuti; boleh ikut sambil menyimak saja. | Kawan saja |
 | Kumpul tatap muka | Sebulan sekali | Isu yang lebih besar, belajar hal baru, atau main bersama. | Kawan saja, kecuali diumumkan terbuka |
@@ -343,7 +343,7 @@ Sponsor, dana, dan donasi atas nama perusahaan tetap ditolak (lihat [bagian 8](#
 - **Kabar bulanan**: rangkuman post media sosial selama sebulan.
 - **Peninjauan**: setiap tulisan ditinjau fungsi Media sosial dan Kabar sebelum terbit.
 - **Nama samaran**: penulis boleh memakai nama samaran.
-- **Sikap atas kebijakan publik**: REKATI boleh menyatakan sikap atas kebijakan publik dari sudut pandang pekerja, setelah disetujui Dewan Fungsionaris [usulan]. REKATI tidak mendukung atau menolak partai politik atau calon mana pun.
+- **Sikap atas kebijakan publik**: REKATI boleh menyatakan sikap atas kebijakan publik dari sudut pandang pekerja, setelah disetujui Dewan Fungsionaris. REKATI tidak mendukung atau menolak partai politik atau calon mana pun.
 
 ## Yang kami dorong
 
@@ -369,16 +369,16 @@ Hubungannya dengan Kode Etik:
 
 ### Cara menangani
 
-- Dewan Fungsionaris memeriksa laporan dan memutuskan sanksi [usulan].
+- Dewan Fungsionaris memeriksa laporan dan memutuskan sanksi.
 - Fungsionaris yang punya hubungan pribadi atau hubungan kerja dengan orang yang dilaporkan tidak ikut memeriksa.
-- Kawan yang dilaporkan diberi tahu secara tertulis. Sebelum dikeluarkan, ia punya 7 hari untuk menjawab [usulan].
+- Kawan yang dilaporkan diberi tahu secara tertulis. Sebelum dikeluarkan, ia punya 7 hari untuk menjawab.
 - Laporan kekerasan seksual ditangani secara tertutup, dan identitas pelapor dirahasiakan.
 - Laporan tentang fungsionaris diperiksa Dewan Fungsionaris tanpa orang yang terlibat, bersama 3 Kawan di luar Dewan. Cara memilih ketiga Kawan itu belum ditentukan.
 - Keberatan atas sanksi diperiksa Dewan Fungsionaris, tanpa orang yang memutuskan sanksinya. Cara dan batas waktu mengajukannya belum ditentukan.
 
 Yang tidak pernah dihitung pelanggaran: kritik, perbedaan pendapat, dan usul perubahan lewat jalur yang tersedia. Begitu juga pendapat dan kegiatan pribadi Kawan yang tidak mengatasnamakan REKATI.
 
-Bertindak sewenang-wenang berarti memakai fungsi atau kewenangan di REKATI di luar tugasnya, atau memutuskan sendiri hal yang seharusnya diputuskan bersama [usulan].
+Bertindak sewenang-wenang berarti memakai fungsi atau kewenangan di REKATI di luar tugasnya, atau memutuskan sendiri hal yang seharusnya diputuskan bersama.
 
 ### Ringan
 
@@ -397,7 +397,7 @@ Pelanggaran:
 
 ### Sedang
 
-Pelanggaran sedang menimbulkan kerugian nyata pada uang, data, reputasi, atau keselamatan Kawan. Melakukan pelanggaran ringan tiga kali dalam 12 bulan juga dihitung pelanggaran sedang [usulan].
+Pelanggaran sedang menimbulkan kerugian nyata pada uang, data, reputasi, atau keselamatan Kawan. Melakukan pelanggaran ringan tiga kali dalam 12 bulan juga dihitung pelanggaran sedang.
 
 Sanksi, satu atau lebih:
 
@@ -416,7 +416,7 @@ Pelanggaran:
 - Memakai posisi di REKATI untuk kepentingan pribadi.
 - Membocorkan informasi rahasia yang dipegang karena fungsinya.
 - Memakai nama REKATI untuk keuntungan pribadi di luar yang diatur dalam aturan ini.
-- Melakukan pelanggaran ringan tiga kali dalam 12 bulan [usulan].
+- Melakukan pelanggaran ringan tiga kali dalam 12 bulan.
 - Tidak memberi tahu dalam 30 hari bahwa dirinya menjadi manajer, pimpinan perusahaan, staf HR, atau perekrut, dan tetap tidak memberi tahu setelah diingatkan.
 - Sengaja menyembunyikan posisi itu saat mendaftar.
 
@@ -441,7 +441,7 @@ Pelanggaran:
 - Meminta hadiah yang berkaitan dengan fungsinya, atau menerima hadiah semacam itu yang nilainya Rp100.000 atau lebih.
 - Memakai informasi dari REKATI untuk keputusan yang merugikan pekerja, misalnya untuk membalas, menghambat, atau memberhentikan Kawan atau orang di timnya (lihat [bagian 1](#kawan-yang-memimpin-atau-menilai-orang-lain)).
 - Memakai nama atau logo REKATI untuk mengampanyekan atau mendukung kelompok politik, partai politik, atau calon dalam pemilihan.
-- Melakukan pelanggaran lain yang sama beratnya terhadap Aturan Komunitas atau Kode Etik. Pelanggaran semacam ini ditetapkan Dewan Fungsionaris dengan alasan tertulis, dan hanya berlaku untuk kejadian setelah penetapan [usulan].
+- Melakukan pelanggaran lain yang sama beratnya terhadap Aturan Komunitas atau Kode Etik. Pelanggaran semacam ini ditetapkan Dewan Fungsionaris dengan alasan tertulis, dan hanya berlaku untuk kejadian setelah penetapan.
 
 ## 8. Iuran dan kas
 
