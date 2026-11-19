@@ -240,10 +240,7 @@ Cara kerjanya:
 - Fungsionaris yang tidak menjalankan fungsinya bisa diganti lewat dua jalur: laporan pelanggaran (lihat [bagian 7](#7-pelanggaran-dan-sanksi)), atau usul sedikitnya 10 Kawan yang diputuskan di pertemuan Kawan.
 - Hadiah yang berkaitan dengan fungsi boleh diterima kalau nilainya di bawah Rp100.000 dan dilaporkan ke Dewan Fungsionaris.
 - Dewan Fungsionaris memeriksa laporan pelanggaran dan memutuskan sanksinya (lihat [bagian 7](#7-pelanggaran-dan-sanksi)).
-
-Yang masih berupa usulan:
-
-- **Batas rangkap**: satu fungsionaris memegang paling banyak dua fungsi.
+- Satu fungsionaris memegang paling banyak dua fungsi.
 
 Bentuk pertemuan Kawan dan cara pertemuan itu memutuskan belum diatur (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 
