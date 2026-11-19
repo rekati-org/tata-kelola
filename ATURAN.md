@@ -281,6 +281,10 @@ Ketiga jalur itu sudah disepakati, tetapi belum semuanya tersedia. Admin yang me
 
 Siapa yang menerima laporan, bagaimana kerahasiaannya dijaga, dan kapan laporan dibalas akan diatur di SOP pelaporan keluhan kerja. SOP itu belum ditetapkan (lihat [Bahan bahasan berikutnya](#bahan-bahasan-berikutnya)).
 
+### Bertanya dan mengusulkan
+
+Pertanyaan, usul, dan niat ikut menjalankan satu fungsi disampaikan secara terbuka di ruang bersama, sampai fungsi atau task force yang terkait punya jalurnya sendiri.
+
 ## 5. Ruang bersama
 
 Ruang bersama adalah tempat semua Kawan berbicara.
@@ -389,6 +393,7 @@ Pelanggaran:
 - Bertindak sewenang-wenang.
 - Sengaja menghambat kerja REKATI.
 - Mengulang pelanggaran Kode Etik setelah diingatkan.
+- Tidak melaporkan hadiah berkaitan dengan fungsi yang nilainya di bawah Rp100.000 [usulan].
 
 ### Sedang
 
@@ -433,7 +438,7 @@ Pelanggaran:
 - Melakukan kekerasan seksual menurut Undang-Undang Nomor 12 Tahun 2022 tentang Tindak Pidana Kekerasan Seksual (UU TPKS), di dalam maupun di luar REKATI.
 - Melakukan tindak pidana yang sudah diputus pengadilan.
 - Sengaja menyebarkan informasi palsu atau menghasut untuk memecah REKATI.
-- Meminta hadiah yang berkaitan dengan fungsinya, atau menerimanya di luar yang dibolehkan. Hadiah boleh diterima kalau nilainya di bawah Rp100.000 dan dilaporkan ke Dewan Fungsionaris.
+- Meminta hadiah yang berkaitan dengan fungsinya, atau menerima hadiah semacam itu yang nilainya Rp100.000 atau lebih.
 - Memakai informasi dari REKATI untuk keputusan yang merugikan pekerja, misalnya untuk membalas, menghambat, atau memberhentikan Kawan atau orang di timnya (lihat [bagian 1](#kawan-yang-memimpin-atau-menilai-orang-lain)).
 - Memakai nama atau logo REKATI untuk mengampanyekan atau mendukung kelompok politik, partai politik, atau calon dalam pemilihan.
 - Melakukan pelanggaran lain yang sama beratnya terhadap Aturan Komunitas atau Kode Etik. Pelanggaran semacam ini ditetapkan Dewan Fungsionaris dengan alasan tertulis, dan hanya berlaku untuk kejadian setelah penetapan [usulan].
