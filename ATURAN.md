@@ -35,6 +35,7 @@ Istilah di bawah dipakai dengan arti yang sama di aturan ini, di formulir, dan d
 - **Fungsi**: satu bidang kerja REKATI, misalnya Verifikasi.
 - **Penanggung jawab (PJ)**: fungsionaris yang bertanggung jawab atas satu fungsi.
 - **Kawan pelaksana**: Kawan yang membantu PJ menjalankan satu fungsi.
+- **Grup fungsionaris**: PJ dan Kawan pelaksana yang menjalankan satu fungsi.
 - **Titik stabil**: keadaan saat setiap fungsi sudah berjalan dengan PJ masing-masing, dan sudah ada Plenum tersebar. Dewan transisi menjabat sampai titik ini.
 - **Periode**: masa tugas Dewan Fungsionaris. Selama masa transisi tidak ada periode. Lamanya periode setelah titik stabil belum ditentukan.
 - **Task force**: kelompok kerja untuk satu tugas tertentu.
